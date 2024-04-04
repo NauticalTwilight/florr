@@ -1,0 +1,84 @@
+{
+    "name": "Bulb",
+    "description": "A shiny lightbulb. Draws aggro from mobs.",
+    "common": {
+        "damage": "5",
+        "health": "10",
+        "petal_reload": "1",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "radius": "300"
+        }
+    },
+    "unusual": {
+        "damage": "15",
+        "health": "30",
+        "petal_reload": "1",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "radius": "600"
+        }
+    },
+    "rare": {
+        "damage": "45",
+        "health": "90",
+        "petal_reload": "1",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "radius": "900"
+        }
+    },
+    "epic": {
+        "damage": "135",
+        "health": "270",
+        "petal_reload": "1",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "radius": "1200"
+        }
+    },
+    "legendary": {
+        "damage": "405",
+        "health": "810",
+        "petal_reload": "1",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "radius": "1500"
+        }
+    },
+    "mythic": {
+        "damage": "1215",
+        "health": "2430",
+        "petal_reload": "1",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "radius": "1800"
+        }
+    },
+    "ultra": {
+        "damage": "3645",
+        "health": "7290",
+        "petal_reload": "1",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "radius": "2100"
+        }
+    },
+    "super": {
+        "damage": "10935",
+        "health": "21870",
+        "petal_reload": "1",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "radius": "2400"
+        }
+    }
+}

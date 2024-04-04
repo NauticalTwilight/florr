@@ -1,0 +1,81 @@
+{
+    "name": "Web",
+    "description": "t's really sticky.",
+    "unusual": {
+        "damage": "15",
+        "health": "15",
+        "petal_reload": "3",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "duration": "10",
+            "radius": "60"
+        }
+    },
+    "rare": {
+        "damage": "45",
+        "health": "45",
+        "petal_reload": "3",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "duration": "10",
+            "radius": "70"
+        }
+    },
+    "epic": {
+        "damage": "135",
+        "health": "135",
+        "petal_reload": "3",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "duration": "10",
+            "radius": "80"
+        }
+    },
+    "legendary": {
+        "damage": "405",
+        "health": "405",
+        "petal_reload": "3",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "duration": "10",
+            "radius": "100"
+        }
+    },
+    "mythic": {
+        "damage": "1215",
+        "health": "1215",
+        "petal_reload": "3",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "duration": "10",
+            "radius": "150"
+        }
+    },
+    "ultra": {
+        "damage": "3645",
+        "health": "3645",
+        "petal_reload": "3",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "duration": "10",
+            "radius": "200"
+        }
+    },
+    "super": {
+        "damage": "10935",
+        "health": "10935",
+        "petal_reload": "3",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "duration": "10",
+            "radius": "250"
+        }
+    }
+}

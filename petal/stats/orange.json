@@ -1,0 +1,53 @@
+{
+    "name": "Orange",
+    "description": "A sweet citrus fruit.",
+    "unusual": {
+        "damage": "20.0",
+        "health": "20.0",
+        "petal_reload": "4",
+        "usage_reload": null,
+        "count": "3"
+    },
+    "rare": {
+        "damage": "60.0",
+        "health": "60.0",
+        "petal_reload": "4",
+        "usage_reload": null,
+        "count": "3"
+    },
+    "epic": {
+        "damage": "180.0",
+        "health": "180.0",
+        "petal_reload": "4",
+        "usage_reload": null,
+        "count": "3"
+    },
+    "legendary": {
+        "damage": "540.0",
+        "health": "540.0",
+        "petal_reload": "4",
+        "usage_reload": null,
+        "count": "3"
+    },
+    "mythic": {
+        "damage": "1620",
+        "health": "1620",
+        "petal_reload": "4",
+        "usage_reload": null,
+        "count": "3"
+    },
+    "ultra": {
+        "damage": "4860",
+        "health": "4860",
+        "petal_reload": "4",
+        "usage_reload": null,
+        "count": "3"
+    },
+    "super": {
+        "damage": "14580",
+        "health": "14580",
+        "petal_reload": "4",
+        "usage_reload": null,
+        "count": "3"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Beetle Egg",
+    "description": "Something interesting might pop out of this.",
+    "common": {
+        "damage": "0",
+        "health": "25",
+        "petal_reload": "1",
+        "usage_reload": "15",
+        "count": "1",
+        "special_stats": {
+            "contents": "Beetle (Common)"
+        }
+    },
+    "unusual": {
+        "damage": "0",
+        "health": "75",
+        "petal_reload": "1",
+        "usage_reload": "19.2",
+        "count": "1",
+        "special_stats": {
+            "contents": "Beetle (Unusual)"
+        }
+    },
+    "rare": {
+        "damage": "0",
+        "health": "225",
+        "petal_reload": "1",
+        "usage_reload": "23.5",
+        "count": "1",
+        "special_stats": {
+            "contents": "Beetle (Rare)"
+        }
+    },
+    "epic": {
+        "damage": "0",
+        "health": "675",
+        "petal_reload": "1",
+        "usage_reload": "32",
+        "count": "1",
+        "special_stats": {
+            "contents": "Beetle (Epic)"
+        }
+    },
+    "legendary": {
+        "damage": "0",
+        "health": "2025",
+        "petal_reload": "1",
+        "usage_reload": "1.8",
+        "count": "1",
+        "special_stats": {
+            "contents": "Beetle (Epic)"
+        }
+    },
+    "mythic": {
+        "damage": "0",
+        "health": "6075",
+        "petal_reload": "1",
+        "usage_reload": "7.4",
+        "count": "1",
+        "special_stats": {
+            "contents": "Beetle (Legendary)"
+        }
+    },
+    "ultra": {
+        "damage": "0",
+        "health": "18225",
+        "petal_reload": "1",
+        "usage_reload": "16.9",
+        "count": "1",
+        "special_stats": {
+            "contents": "Beetle (Mythic)"
+        }
+    },
+    "super": {
+        "damage": "0",
+        "health": "54675",
+        "petal_reload": "1",
+        "usage_reload": "0.1",
+        "count": "1",
+        "special_stats": {
+            "contents": "Beetle (Mythic)"
+        }
+    }
+}

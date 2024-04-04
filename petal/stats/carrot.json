@@ -1,0 +1,60 @@
+{
+    "name": "Carrot",
+    "description": "Sturdy and reliable. Can be shot and bounces off walls.",
+    "common": {
+        "damage": "10",
+        "health": "20",
+        "petal_reload": "2.5",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "unusual": {
+        "damage": "30",
+        "health": "60",
+        "petal_reload": "2.5",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "rare": {
+        "damage": "90",
+        "health": "180",
+        "petal_reload": "2.5",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "epic": {
+        "damage": "270",
+        "health": "540",
+        "petal_reload": "2.5",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "legendary": {
+        "damage": "810",
+        "health": "1620",
+        "petal_reload": "2.5",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "mythic": {
+        "damage": "2430",
+        "health": "4860",
+        "petal_reload": "2.5",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "ultra": {
+        "damage": "7290",
+        "health": "14580",
+        "petal_reload": "2.5",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "super": {
+        "damage": "21870",
+        "health": "43740",
+        "petal_reload": "2.5",
+        "usage_reload": "0.5",
+        "count": "1"
+    }
+}

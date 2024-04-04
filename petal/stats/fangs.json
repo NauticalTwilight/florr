@@ -1,0 +1,74 @@
+{
+    "name": "Fangs",
+    "description": "Heals based on damage dealt by this petal.",
+    "unusual": {
+        "damage": "45",
+        "health": "30",
+        "petal_reload": "3.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "damage_healed": "59.5%"
+        }
+    },
+    "rare": {
+        "damage": "135",
+        "health": "90",
+        "petal_reload": "3.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "damage_healed": "59.5%"
+        }
+    },
+    "epic": {
+        "damage": "405",
+        "health": "270",
+        "petal_reload": "3.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "damage_healed": "59.5%"
+        }
+    },
+    "legendary": {
+        "damage": "1215",
+        "health": "810",
+        "petal_reload": "3.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "damage_healed": "59.5%"
+        }
+    },
+    "mythic": {
+        "damage": "3645",
+        "health": "2430",
+        "petal_reload": "3.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "damage_healed": "59.5%"
+        }
+    },
+    "ultra": {
+        "damage": "10935",
+        "health": "7290",
+        "petal_reload": "3.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "damage_healed": "34.4%"
+        }
+    },
+    "super": {
+        "damage": "32805",
+        "health": "21870",
+        "petal_reload": "3.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "damage_healed": "34.4%"
+        }
+    }
+}

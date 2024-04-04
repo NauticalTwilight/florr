@@ -1,0 +1,74 @@
+{
+    "name": "Mysterious Relic",
+    "description": "A strange relic. Damage is spread among other wearers.",
+    "unusual": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": 0,
+        "special_stats": {
+            "%_distributed": "25.0%"
+        }
+    },
+    "rare": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": 0,
+        "special_stats": {
+            "%_distributed": "37.5%"
+        }
+    },
+    "epic": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": 0,
+        "special_stats": {
+            "%_distributed": "50.0%"
+        }
+    },
+    "legendary": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": 0,
+        "special_stats": {
+            "%_distributed": "62.5%"
+        }
+    },
+    "mythic": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": 0,
+        "special_stats": {
+            "%_distributed": "75.0%"
+        }
+    },
+    "ultra": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": 0,
+        "special_stats": {
+            "%_distributed": "87.5%"
+        }
+    },
+    "super": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": 0,
+        "special_stats": {
+            "%_distributed": "100.0%"
+        }
+    }
+}

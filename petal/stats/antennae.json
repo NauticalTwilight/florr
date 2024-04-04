@@ -1,0 +1,64 @@
+{
+    "name": "Antennae",
+    "description": "Allows your flower to sense foes farther away. Does not stack.",
+    "rare": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "extra_vision": "25.0%"
+        }
+    },
+    "epic": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "extra_vision": "33.3%"
+        }
+    },
+    "legendary": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "extra_vision": "42.9%"
+        }
+    },
+    "mythic": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "extra_vision": "100.0%"
+        }
+    },
+    "ultra": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "extra_vision": "185.7%"
+        }
+    },
+    "super": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "extra_vision": "400.0%"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Amulet",
+    "description": "Converts a percentage of overheal into shield.",
+
+    "common": {
+        "health": 10,
+        "damage": null,
+        "petal_reload": 2,
+        "usage_reload": null,
+        "special_stats": {
+            "overheal_conversion": "5%"
+        }
+    },
+
+    "uncommon": {
+        "health": 30,
+        "damage": null,
+        "petal_reload": 2,
+        "usage_reload": null,
+        "special_stats": {
+            "overheal_conversion": "10%"
+        }
+    },
+
+    "rare": {
+        "health": 90,
+        "damage": null,
+        "petal_reload": 2,
+        "usage_reload": null,
+        "special_stats": {
+            "overheal_conversion": "15%"
+        }
+    },
+
+    "epic": {
+        "health": 270,
+        "damage": null,
+        "petal_reload": 2,
+        "usage_reload": null,
+        "special_stats": {
+            "overheal_conversion": "20%"
+        }
+    },
+
+    "legendary": {
+        "health": 810,
+        "damage": null,
+        "petal_reload": 2,
+        "usage_reload": null,
+        "special_stats": {
+            "overheal_conversion": "25%"
+        }
+    },
+
+    "mythic": {
+        "health": 2430,
+        "damage": null,
+        "petal_reload": 2,
+        "usage_reload": null,
+        "special_stats": {
+            "overheal_conversion": "30%"
+        }
+    },
+
+    "ultra": {
+        "health": 7290,
+        "damage": null,
+        "petal_reload": 2,
+        "usage_reload": null,
+        "special_stats": {
+            "overheal_conversion": "35%"
+        }
+    },
+
+    "super": {
+        "health": 21870,
+        "damage": null,
+        "petal_reload": 2,
+        "usage_reload": null,
+        "special_stats": {
+            "overheal_conversion": "40%"
+        }
+    }
+}

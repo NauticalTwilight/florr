@@ -1,0 +1,84 @@
+{
+    "name": "Cactus",
+    "description": "Not very strong, but somehow increases your maximum health.",
+    "common": {
+        "damage": "5",
+        "health": "15",
+        "petal_reload": "1",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "flower_health": "25"
+        }
+    },
+    "unusual": {
+        "damage": "15",
+        "health": "45",
+        "petal_reload": "1",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "flower_health": "75"
+        }
+    },
+    "rare": {
+        "damage": "45",
+        "health": "135",
+        "petal_reload": "1",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "flower_health": "225"
+        }
+    },
+    "epic": {
+        "damage": "135",
+        "health": "405",
+        "petal_reload": "1",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "flower_health": "675"
+        }
+    },
+    "legendary": {
+        "damage": "405",
+        "health": "1215",
+        "petal_reload": "1",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "flower_health": "2025"
+        }
+    },
+    "mythic": {
+        "damage": "1215",
+        "health": "3645",
+        "petal_reload": "1",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "flower_health": "6075"
+        }
+    },
+    "ultra": {
+        "damage": "3645",
+        "health": "10935",
+        "petal_reload": "1",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "flower_health": "18225"
+        }
+    },
+    "super": {
+        "damage": "10935",
+        "health": "32805",
+        "petal_reload": "1",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "flower_health": "54675"
+        }
+    }
+}

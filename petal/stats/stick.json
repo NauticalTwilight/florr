@@ -1,0 +1,54 @@
+{
+    "name": "Mysterious Stick",
+    "description": "A mysterious stick that summons the forces of wind.",
+    "epic": {
+        "damage": "27",
+        "health": "270",
+        "petal_reload": "4",
+        "usage_reload": "2.5",
+        "count": "1",
+        "special_stats": {
+            "spawn,_duration": "x2 Sandstorm (Rare)"
+        }
+    },
+    "legendary": {
+        "damage": "81",
+        "health": "810",
+        "petal_reload": "4",
+        "usage_reload": "3.7",
+        "count": "1",
+        "special_stats": {
+            "spawn,_duration": "x2 Sandstorm (Epic)"
+        }
+    },
+    "mythic": {
+        "damage": "243",
+        "health": "2430",
+        "petal_reload": "4",
+        "usage_reload": "10.7",
+        "count": "1",
+        "special_stats": {
+            "spawn,_duration": "x2 Sandstorm (Legendary)"
+        }
+    },
+    "ultra": {
+        "damage": "729",
+        "health": "7290",
+        "petal_reload": "4",
+        "usage_reload": "22.3",
+        "count": "1",
+        "special_stats": {
+            "spawn,_duration": "x2 Sandstorm (Mythic)"
+        }
+    },
+    "super": {
+        "damage": "2187",
+        "health": "21870",
+        "petal_reload": "4",
+        "usage_reload": "1.6",
+        "count": "1",
+        "special_stats": {
+            "spawn,_duration": "x2 Sandstorm (Mythic)"
+        }
+    }
+}

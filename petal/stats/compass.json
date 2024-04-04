@@ -1,0 +1,24 @@
+{
+    "name": "Compass",
+    "description": "This crappy thing might be able to find something interesting...",
+    "ultra": {
+        "damage": "7290",
+        "health": "7290",
+        "petal_reload": "2.5",
+        "usage_reload": "4.0",
+        "count": "1",
+        "special_stats": {
+            "affected_by_magnets": true
+        }
+    },
+    "super": {
+        "damage": "21870",
+        "health": "21870",
+        "petal_reload": "2.5",
+        "usage_reload": "4.0",
+        "count": "1",
+        "special_stats": {
+            "not_affected_by_magnets": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Air",
+    "description": "It's literally nothing.",
+
+    "common": {
+        "health": null,
+        "damage": null,
+        "petal_reload": null,
+        "usage_reload": null
+    },
+
+    "uncommon": {
+        "health": null,
+        "damage": null,
+        "petal_reload": null,
+        "usage_reload": null
+    },
+
+    "rare": {
+        "health": null,
+        "damage": null,
+        "petal_reload": null,
+        "usage_reload": null
+    },
+
+    "epic": {
+        "health": null,
+        "damage": null,
+        "petal_reload": null,
+        "usage_reload": null
+    },
+
+    "legendary": {
+        "health": null,
+        "damage": null,
+        "petal_reload": null,
+        "usage_reload": null
+    },
+
+    "mythic": {
+        "health": null,
+        "damage": null,
+        "petal_reload": null,
+        "usage_reload": null
+    },
+
+    "ultra": {
+        "health": null,
+        "damage": null,
+        "petal_reload": null,
+        "usage_reload": null
+    },
+
+    "super": {
+        "health": null,
+        "damage": null,
+        "petal_reload": null,
+        "usage_reload": null
+    }
+}

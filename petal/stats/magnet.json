@@ -1,0 +1,64 @@
+{
+    "name": "Magnet",
+    "description": "Increases drop pickup range. Does not stack with itself.",
+    "rare": {
+        "damage": "9",
+        "health": "270",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "pickup_range": "240"
+        }
+    },
+    "epic": {
+        "damage": "27",
+        "health": "810",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "pickup_range": "420"
+        }
+    },
+    "legendary": {
+        "damage": "81",
+        "health": "2430",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "pickup_range": "600"
+        }
+    },
+    "mythic": {
+        "damage": "243",
+        "health": "7290",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "pickup_range": "780"
+        }
+    },
+    "ultra": {
+        "damage": "729",
+        "health": "21870",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "pickup_range": "960"
+        }
+    },
+    "super": {
+        "damage": "2187",
+        "health": "65610",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "pickup_range": "1,140"
+        }
+    }
+}

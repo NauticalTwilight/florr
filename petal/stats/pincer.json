@@ -1,0 +1,81 @@
+{
+    "name": "Pincer",
+    "description": "Debilitates enemies temporarily, reducing their movement speed.",
+    "unusual": {
+        "damage": "15",
+        "health": "15",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "poison": "45 (30/sec)",
+            "duration": "1.5"
+        }
+    },
+    "rare": {
+        "damage": "45",
+        "health": "45",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "poison": "135 (90/sec)",
+            "duration": "1.5"
+        }
+    },
+    "epic": {
+        "damage": "135",
+        "health": "135",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "poison": "405 (270/sec)",
+            "duration": "1.5"
+        }
+    },
+    "legendary": {
+        "damage": "405",
+        "health": "405",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "poison": "1215 (810/sec)",
+            "duration": "1.5"
+        }
+    },
+    "mythic": {
+        "damage": "1215",
+        "health": "1215",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "poison": "3645 (2430/sec)",
+            "duration": "1.5"
+        }
+    },
+    "ultra": {
+        "damage": "3645",
+        "health": "3645",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "poison": "10935 (7290/sec)",
+            "duration": "1.5"
+        }
+    },
+    "super": {
+        "damage": "10935",
+        "health": "10935",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "poison": "32805 (21870/sec)",
+            "duration": "1.5"
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Starfish",
+    "description": "Increases health regen while below 75% health.",
+    "unusual": {
+        "damage": "15",
+        "health": "21",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "heal": "7/sec"
+        }
+    },
+    "rare": {
+        "damage": "45",
+        "health": "63",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "heal": "20/sec"
+        }
+    },
+    "epic": {
+        "damage": "135",
+        "health": "189",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "heal": "61/sec"
+        }
+    },
+    "legendary": {
+        "damage": "405",
+        "health": "567",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "heal": "182/sec"
+        }
+    },
+    "mythic": {
+        "damage": "1215",
+        "health": "1701",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "heal": "547/sec"
+        }
+    },
+    "ultra": {
+        "damage": "3645",
+        "health": "5103",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "heal": "947/sec"
+        }
+    },
+    "super": {
+        "damage": "10935",
+        "health": "15309",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "heal": "1640/sec"
+        }
+    }
+}

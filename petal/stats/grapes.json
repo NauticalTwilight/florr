@@ -1,0 +1,92 @@
+{
+    "name": "Grapes",
+    "description": "4 in 1 deal. Now with a secret ingredient: poison.",
+    "common": {
+        "damage": "3",
+        "health": "20",
+        "petal_reload": "1.5",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "poison": "11",
+            "poison_dps": "15"
+        }
+    },
+    "unusual": {
+        "damage": "9",
+        "health": "60",
+        "petal_reload": "1.5",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "poison": "33",
+            "poison_dps": "45"
+        }
+    },
+    "rare": {
+        "damage": "27",
+        "health": "180",
+        "petal_reload": "1.5",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "poison": "99",
+            "poison_dps": "135"
+        }
+    },
+    "epic": {
+        "damage": "81",
+        "health": "540",
+        "petal_reload": "1.5",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "poison": "297",
+            "poison_dps": "405"
+        }
+    },
+    "legendary": {
+        "damage": "243",
+        "health": "1620",
+        "petal_reload": "1.5",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "poison": "891",
+            "poison_dps": "1215"
+        }
+    },
+    "mythic": {
+        "damage": "729",
+        "health": "4860",
+        "petal_reload": "1.5",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "poison": "2673",
+            "poison_dps": "3645"
+        }
+    },
+    "ultra": {
+        "damage": "2187",
+        "health": "14580",
+        "petal_reload": "1.5",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "poison": "8019",
+            "poison_dps": "10935"
+        }
+    },
+    "super": {
+        "damage": "6561",
+        "health": "43740",
+        "petal_reload": "1.5",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "poison": "24057",
+            "poison_dps": "32805"
+        }
+    }
+}

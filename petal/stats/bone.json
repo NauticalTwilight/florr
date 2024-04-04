@@ -1,0 +1,84 @@
+{
+    "name": "Bone",
+    "description": "Sturdy.",
+    "common": {
+        "damage": "15",
+        "health": "10",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor": "4"
+        }
+    },
+    "unusual": {
+        "damage": "45",
+        "health": "30",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor": "12"
+        }
+    },
+    "rare": {
+        "damage": "135",
+        "health": "90",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor": "36"
+        }
+    },
+    "epic": {
+        "damage": "405",
+        "health": "270",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor": "108"
+        }
+    },
+    "legendary": {
+        "damage": "1215",
+        "health": "810",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor": "324"
+        }
+    },
+    "mythic": {
+        "damage": "3645",
+        "health": "2430",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor": "972"
+        }
+    },
+    "ultra": {
+        "damage": "10935",
+        "health": "7290",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor": "2916"
+        }
+    },
+    "super": {
+        "damage": "32805",
+        "health": "21870",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor": "8748"
+        }
+    }
+}

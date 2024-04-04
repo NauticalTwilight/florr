@@ -1,0 +1,60 @@
+{
+    "name": "Lotus",
+    "description": "Absorbs poison damage taken by the flower.",
+    "common": {
+        "damage": "1",
+        "health": "40",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "unusual": {
+        "damage": "3",
+        "health": "120",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "rare": {
+        "damage": "9",
+        "health": "360",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "epic": {
+        "damage": "27",
+        "health": "1080",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "legendary": {
+        "damage": "81",
+        "health": "3240",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "mythic": {
+        "damage": "243",
+        "health": "9720",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "ultra": {
+        "damage": "729",
+        "health": "29160",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "super": {
+        "damage": "2187",
+        "health": "87480",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1"
+    }
+}

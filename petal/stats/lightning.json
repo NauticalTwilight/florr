@@ -1,0 +1,81 @@
+{
+    "name": "Lightning",
+    "description": "Strikes several nearby enemies.",
+    "unusual": {
+        "damage": "0",
+        "health": "60",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "lightning": "36",
+            "bounces": "3"
+        }
+    },
+    "rare": {
+        "damage": "0",
+        "health": "180",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "lightning": "108",
+            "bounces": "4"
+        }
+    },
+    "epic": {
+        "damage": "0",
+        "health": "540",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "lightning": "324",
+            "bounces": "5"
+        }
+    },
+    "legendary": {
+        "damage": "0",
+        "health": "1620",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "lightning": "972",
+            "bounces": "6"
+        }
+    },
+    "mythic": {
+        "damage": "0",
+        "health": "4860",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "lightning": "2916",
+            "bounces": "7"
+        }
+    },
+    "ultra": {
+        "damage": "0",
+        "health": "14580",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "lightning": "8748",
+            "bounces": "8"
+        }
+    },
+    "super": {
+        "damage": "0",
+        "health": "43740",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "lightning": "26244",
+            "bounces": "9"
+        }
+    }
+}

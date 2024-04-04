@@ -1,0 +1,92 @@
+{
+    "name": "Rubber",
+    "description": "Increases knockback received.",
+    "common": {
+        "damage": "10",
+        "health": "10",
+        "petal_reload": "2",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "knockback": "0.3",
+            "lightning_resistance": "20%"
+        }
+    },
+    "unusual": {
+        "damage": "30",
+        "health": "30",
+        "petal_reload": "2",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "knockback": "0.6",
+            "lightning_resistance": "20%"
+        }
+    },
+    "rare": {
+        "damage": "90",
+        "health": "90",
+        "petal_reload": "2",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "knockback": "0.9",
+            "lightning_resistance": "20%"
+        }
+    },
+    "epic": {
+        "damage": "270",
+        "health": "270",
+        "petal_reload": "2",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "knockback": "1.2",
+            "lightning_resistance": "20%"
+        }
+    },
+    "legendary": {
+        "damage": "810",
+        "health": "810",
+        "petal_reload": "2",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "knockback": "1.5",
+            "lightning_resistance": "20%"
+        }
+    },
+    "mythic": {
+        "damage": "2430",
+        "health": "2430",
+        "petal_reload": "2",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "knockback": "1.8",
+            "lightning_resistance": "20%"
+        }
+    },
+    "ultra": {
+        "damage": "7290",
+        "health": "7290",
+        "petal_reload": "2",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "knockback": "2.1",
+            "lightning_resistance": "20%"
+        }
+    },
+    "super": {
+        "damage": "21870",
+        "health": "21870",
+        "petal_reload": "2",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "knockback": "2.4",
+            "lightning_resistance": "20%"
+        }
+    }
+}

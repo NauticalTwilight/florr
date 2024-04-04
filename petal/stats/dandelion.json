@@ -1,0 +1,74 @@
+{
+    "name": "Dandelion",
+    "description": "Its interesting properties inhibit healing effects on affected units. Affected units have their healing reduced by 20%. Stacks with itself.",
+    "unusual": {
+        "damage": "15",
+        "health": "15",
+        "petal_reload": "1",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "duration": "4"
+        }
+    },
+    "rare": {
+        "damage": "45",
+        "health": "45",
+        "petal_reload": "1",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "duration": "8"
+        }
+    },
+    "epic": {
+        "damage": "135",
+        "health": "135",
+        "petal_reload": "1",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "duration": "12"
+        }
+    },
+    "legendary": {
+        "damage": "405",
+        "health": "405",
+        "petal_reload": "1",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "duration": "16"
+        }
+    },
+    "mythic": {
+        "damage": "607.5",
+        "health": "607.5",
+        "petal_reload": "1",
+        "usage_reload": "0.5",
+        "count": "2",
+        "special_stats": {
+            "duration": "20"
+        }
+    },
+    "ultra": {
+        "damage": "1215",
+        "health": "1215",
+        "petal_reload": "1",
+        "usage_reload": "0.5",
+        "count": "3",
+        "special_stats": {
+            "duration": "24"
+        }
+    },
+    "super": {
+        "damage": "3645",
+        "health": "3645",
+        "petal_reload": "1",
+        "usage_reload": "0.5",
+        "count": "3",
+        "special_stats": {
+            "duration": "28"
+        }
+    }
+}

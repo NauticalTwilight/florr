@@ -1,0 +1,60 @@
+{
+    "name": "Dark Mark",
+    "description": "A dark mark that binds itself to a fallen soul.",
+    "common": {
+        "damage": "0",
+        "health": "10",
+        "petal_reload": "1",
+        "usage_reload": "960",
+        "count": "1"
+    },
+    "unusual": {
+        "damage": "0",
+        "health": "30",
+        "petal_reload": "1",
+        "usage_reload": "480",
+        "count": "1"
+    },
+    "rare": {
+        "damage": "0",
+        "health": "90",
+        "petal_reload": "1",
+        "usage_reload": "240",
+        "count": "1"
+    },
+    "epic": {
+        "damage": "0",
+        "health": "270",
+        "petal_reload": "1",
+        "usage_reload": "120.0",
+        "count": "1"
+    },
+    "legendary": {
+        "damage": "0",
+        "health": "810",
+        "petal_reload": "1",
+        "usage_reload": "60.0",
+        "count": "1"
+    },
+    "mythic": {
+        "damage": "0",
+        "health": "2430",
+        "petal_reload": "1",
+        "usage_reload": "30.0",
+        "count": "1"
+    },
+    "ultra": {
+        "damage": "0",
+        "health": "7290",
+        "petal_reload": "1",
+        "usage_reload": "10.0",
+        "count": "1"
+    },
+    "super": {
+        "damage": "0",
+        "health": "21870",
+        "petal_reload": "1",
+        "usage_reload": "4.0",
+        "count": "1"
+    }
+}

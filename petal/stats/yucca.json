@@ -1,0 +1,74 @@
+{
+    "name": "Yucca",
+    "description": "Heals your flower but only while in the defensive position.",
+    "unusual": {
+        "damage": "15",
+        "health": "30",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "heal_(per_sec)": "5"
+        }
+    },
+    "rare": {
+        "damage": "45",
+        "health": "90",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "heal_(per_sec)": "14"
+        }
+    },
+    "epic": {
+        "damage": "135",
+        "health": "270",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "heal_(per_sec)": "43"
+        }
+    },
+    "legendary": {
+        "damage": "405",
+        "health": "810",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "heal_(per_sec)": "130"
+        }
+    },
+    "mythic": {
+        "damage": "1215",
+        "health": "2430",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "heal_(per_sec)": "389"
+        }
+    },
+    "ultra": {
+        "damage": "3645",
+        "health": "7290",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "heal_(per_sec)": "673"
+        }
+    },
+    "super": {
+        "damage": "10935",
+        "health": "21870",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "heal_(per_sec)": "1166"
+        }
+    }
+}

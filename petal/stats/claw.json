@@ -1,0 +1,84 @@
+{
+    "name": "Claw",
+    "description": "Deals extra damage if victim is above 80% health. -50% damage versus other flowers.",
+    "common": {
+        "damage": "5",
+        "health": "10",
+        "petal_reload": "3.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "extra_damage": "100"
+        }
+    },
+    "unusual": {
+        "damage": "15",
+        "health": "30",
+        "petal_reload": "3.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "extra_damage": "300"
+        }
+    },
+    "rare": {
+        "damage": "45",
+        "health": "90",
+        "petal_reload": "3.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "extra_damage": "900"
+        }
+    },
+    "epic": {
+        "damage": "135",
+        "health": "270",
+        "petal_reload": "3.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "extra_damage": "2700"
+        }
+    },
+    "legendary": {
+        "damage": "405",
+        "health": "810",
+        "petal_reload": "3.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "extra_damage": "8100"
+        }
+    },
+    "mythic": {
+        "damage": "1215",
+        "health": "2430",
+        "petal_reload": "3.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "extra_damage": "24300"
+        }
+    },
+    "ultra": {
+        "damage": "3645",
+        "health": "7290",
+        "petal_reload": "3.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "extra_damage": "72900"
+        }
+    },
+    "super": {
+        "damage": "10935",
+        "health": "21870",
+        "petal_reload": "3.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "extra_damage": "218700"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Faster",
+    "description": "It's so light it makes your other petals spin faster.",
+    "common": {
+        "damage": "8",
+        "health": "5",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "rotation_speed_(rad/s)": "0.5"
+        }
+    },
+    "unusual": {
+        "damage": "24",
+        "health": "15",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "rotation_speed_(rad/s)": "0.7"
+        }
+    },
+    "rare": {
+        "damage": "72",
+        "health": "45",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "rotation_speed_(rad/s)": "0.9"
+        }
+    },
+    "epic": {
+        "damage": "216",
+        "health": "135",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "rotation_speed_(rad/s)": "1.1"
+        }
+    },
+    "legendary": {
+        "damage": "648",
+        "health": "405",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "rotation_speed_(rad/s)": "1.3"
+        }
+    },
+    "mythic": {
+        "damage": "1944",
+        "health": "1215",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "rotation_speed_(rad/s)": "1.5"
+        }
+    },
+    "ultra": {
+        "damage": "5832",
+        "health": "3645",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "rotation_speed_(rad/s)": "1.7"
+        }
+    },
+    "super": {
+        "damage": "17496",
+        "health": "10935",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "rotation_speed_(rad/s)": "1.9"
+        }
+    }
+}

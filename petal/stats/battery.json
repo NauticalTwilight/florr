@@ -1,0 +1,100 @@
+{
+    "name": "Battery",
+    "description": "Discharges electricity whenever the flower gets hit.",
+    "common": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "lightning": "15",
+            "bounces": "2",
+            "charges": "5"
+        }
+    },
+    "unusual": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "lightning": "45",
+            "bounces": "3",
+            "charges": "5"
+        }
+    },
+    "rare": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "lightning": "135",
+            "bounces": "4",
+            "charges": "5"
+        }
+    },
+    "epic": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "lightning": "405",
+            "bounces": "5",
+            "charges": "5"
+        }
+    },
+    "legendary": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "lightning": "1215",
+            "bounces": "6",
+            "charges": "5"
+        }
+    },
+    "mythic": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "lightning": "3645",
+            "bounces": "7",
+            "charges": "5"
+        }
+    },
+    "ultra": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "lightning": "10935",
+            "bounces": "8",
+            "charges": "5"
+        }
+    },
+    "super": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "lightning": "32805",
+            "bounces": "9",
+            "charges": "5"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Pearl",
+    "description": "Just drop it off somewhere and use your kinetic powers so you don't lose it.",
+    "unusual": {
+        "damage": "45",
+        "health": "150",
+        "petal_reload": "4",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "rare": {
+        "damage": "135",
+        "health": "450",
+        "petal_reload": "4",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "epic": {
+        "damage": "405",
+        "health": "1350",
+        "petal_reload": "4",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "legendary": {
+        "damage": "1215",
+        "health": "4050",
+        "petal_reload": "4",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "mythic": {
+        "damage": "3645",
+        "health": "12150",
+        "petal_reload": "4",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "ultra": {
+        "damage": "10935",
+        "health": "36450",
+        "petal_reload": "4",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "super": {
+        "damage": "32805",
+        "health": "109350",
+        "petal_reload": "4",
+        "usage_reload": "0.5",
+        "count": "1"
+    }
+}

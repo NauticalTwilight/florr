@@ -1,0 +1,60 @@
+{
+    "name": "Corn",
+    "description": "Takes a long time to spawn, but has a lot of health.",
+    "common": {
+        "damage": "5",
+        "health": "300",
+        "petal_reload": "10",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "unusual": {
+        "damage": "15",
+        "health": "900",
+        "petal_reload": "10",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "rare": {
+        "damage": "45",
+        "health": "2700",
+        "petal_reload": "10",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "epic": {
+        "damage": "135",
+        "health": "8100",
+        "petal_reload": "10",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "legendary": {
+        "damage": "405",
+        "health": "24300",
+        "petal_reload": "10",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "mythic": {
+        "damage": "1215",
+        "health": "72900",
+        "petal_reload": "10",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "ultra": {
+        "damage": "3645",
+        "health": "218700",
+        "petal_reload": "10",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "super": {
+        "damage": "10935",
+        "health": "656100",
+        "petal_reload": "10",
+        "usage_reload": null,
+        "count": "1"
+    }
+}

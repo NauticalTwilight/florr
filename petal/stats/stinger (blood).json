@@ -1,0 +1,84 @@
+{
+    "name": "Blood Stinger",
+    "description": "It really hurts, but its very fragile. Deals some of the damage dealt back to the flower.",
+    "common": {
+        "damage": "100",
+        "health": "2",
+        "petal_reload": "5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "self_damage": "7"
+        }
+    },
+    "unusual": {
+        "damage": "300",
+        "health": "6",
+        "petal_reload": "5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "self_damage": "21"
+        }
+    },
+    "rare": {
+        "damage": "900",
+        "health": "18",
+        "petal_reload": "5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "self_damage": "63"
+        }
+    },
+    "epic": {
+        "damage": "2700",
+        "health": "54",
+        "petal_reload": "5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "self_damage": "189"
+        }
+    },
+    "legendary": {
+        "damage": "8100",
+        "health": "162",
+        "petal_reload": "5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "self_damage": "567"
+        }
+    },
+    "mythic": {
+        "damage": "8100",
+        "health": "162",
+        "petal_reload": "5",
+        "usage_reload": null,
+        "count": "3",
+        "special_stats": {
+            "self_damage": "567"
+        }
+    },
+    "ultra": {
+        "damage": "14580",
+        "health": "292",
+        "petal_reload": "5",
+        "usage_reload": null,
+        "count": "5",
+        "special_stats": {
+            "self_damage": "1021"
+        }
+    },
+    "super": {
+        "damage": "43740",
+        "health": "875",
+        "petal_reload": "5",
+        "usage_reload": null,
+        "count": "5",
+        "special_stats": {
+            "self_damage": "3062"
+        }
+    }
+}

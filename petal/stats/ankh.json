@@ -1,0 +1,60 @@
+{
+    "name": "Ankh",
+    "description": "An ancient relic. When destroyed, will teleport the flower back to where it was destroyed.",
+    "common": {
+        "damage": "0",
+        "health": "10",
+        "petal_reload": "255.0",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "unusual": {
+        "damage": "0",
+        "health": "30",
+        "petal_reload": "127.5",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "rare": {
+        "damage": "0",
+        "health": "90",
+        "petal_reload": "63.8",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "epic": {
+        "damage": "0",
+        "health": "270",
+        "petal_reload": "31.9",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "legendary": {
+        "damage": "0",
+        "health": "810",
+        "petal_reload": "15.9",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "mythic": {
+        "damage": "0",
+        "health": "2430",
+        "petal_reload": "8.0",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "ultra": {
+        "damage": "0",
+        "health": "7290",
+        "petal_reload": "4.0",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "super": {
+        "damage": "0",
+        "health": "21870",
+        "petal_reload": "2.0",
+        "usage_reload": "0.5",
+        "count": "1"
+    }
+}

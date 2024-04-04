@@ -1,0 +1,74 @@
+{
+    "name": "Sponge",
+    "description": "Spreads damage taken by the flower over a period of time. If destroyed, will deal remaining damage all at once.",
+    "unusual": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "soak_period": "3.9"
+        }
+    },
+    "rare": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "soak_period": "5.4"
+        }
+    },
+    "epic": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "soak_period": "7.2"
+        }
+    },
+    "legendary": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "soak_period": "9.6"
+        }
+    },
+    "mythic": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "soak_period": "15"
+        }
+    },
+    "ultra": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "soak_period": "30"
+        }
+    },
+    "super": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "soak_period": "60"
+        }
+    }
+}

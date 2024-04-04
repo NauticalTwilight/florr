@@ -1,0 +1,60 @@
+{
+    "name": "Square",
+    "description": "This shape... it looks familiar...",
+    "common": {
+        "damage": "0",
+        "health": "0",
+        "petal_reload": "60",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "unusual": {
+        "damage": "0",
+        "health": "0",
+        "petal_reload": "60",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "rare": {
+        "damage": "0",
+        "health": "0",
+        "petal_reload": "60",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "epic": {
+        "damage": "0",
+        "health": "0",
+        "petal_reload": "60",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "legendary": {
+        "damage": "0",
+        "health": "0",
+        "petal_reload": "60",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "mythic": {
+        "damage": "0",
+        "health": "0",
+        "petal_reload": "60",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "ultra": {
+        "damage": "0",
+        "health": "0",
+        "petal_reload": "60",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "super": {
+        "damage": "0",
+        "health": "0",
+        "petal_reload": "60",
+        "usage_reload": null,
+        "count": "1"
+    }
+}

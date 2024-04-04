@@ -1,0 +1,74 @@
+{
+    "name": "Salt",
+    "description": "Reflects some of the damage you take back to the enemy that dealt it. Reflected damage is reduced by 70% against flowers.",
+    "unusual": {
+        "damage": "30",
+        "health": "30",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "damage_reflection": "90%"
+        }
+    },
+    "rare": {
+        "damage": "90",
+        "health": "90",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "damage_reflection": "95%"
+        }
+    },
+    "epic": {
+        "damage": "270",
+        "health": "270",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "damage_reflection": "100%"
+        }
+    },
+    "legendary": {
+        "damage": "810",
+        "health": "810",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "damage_reflection": "105%"
+        }
+    },
+    "mythic": {
+        "damage": "2430",
+        "health": "2430",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "damage_reflection": "110%"
+        }
+    },
+    "ultra": {
+        "damage": "7290",
+        "health": "7290",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "damage_reflection": "115%"
+        }
+    },
+    "super": {
+        "damage": "21870",
+        "health": "21870",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "damage_reflection": "120%"
+        }
+    }
+}

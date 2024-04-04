@@ -1,0 +1,60 @@
+{
+    "name": "Cotton",
+    "description": "Absorbs damage taken by the flower.",
+    "common": {
+        "damage": "0",
+        "health": "6",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "unusual": {
+        "damage": "0",
+        "health": "18",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "rare": {
+        "damage": "0",
+        "health": "54",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "epic": {
+        "damage": "0",
+        "health": "162",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "legendary": {
+        "damage": "0",
+        "health": "486",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "mythic": {
+        "damage": "0",
+        "health": "1458",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "ultra": {
+        "damage": "0",
+        "health": "2525",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "super": {
+        "damage": "0",
+        "health": "4374",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "1"
+    }
+}

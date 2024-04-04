@@ -1,0 +1,60 @@
+{
+    "name": "Shovel",
+    "description": "Becomes untargetable but unable to use petals for a limited time.",
+    "common": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "15",
+        "usage_reload": "2",
+        "count": "1"
+    },
+    "unusual": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "13",
+        "usage_reload": "2",
+        "count": "1"
+    },
+    "rare": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "11.3",
+        "usage_reload": "2",
+        "count": "1"
+    },
+    "epic": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "9.4",
+        "usage_reload": "2",
+        "count": "1"
+    },
+    "legendary": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "7.5",
+        "usage_reload": "2",
+        "count": "1"
+    },
+    "mythic": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "5.7",
+        "usage_reload": "2",
+        "count": "1"
+    },
+    "ultra": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "3.9",
+        "usage_reload": "2",
+        "count": "1"
+    },
+    "super": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "2",
+        "usage_reload": "2",
+        "count": "1"
+    }
+}

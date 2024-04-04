@@ -1,0 +1,60 @@
+{
+    "name": "Rice",
+    "description": "Spawns very quickly, but not very strong.",
+    "common": {
+        "damage": "4",
+        "health": "1",
+        "petal_reload": "0.1",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "unusual": {
+        "damage": "12",
+        "health": "3",
+        "petal_reload": "0.1",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "rare": {
+        "damage": "36",
+        "health": "9",
+        "petal_reload": "0.1",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "epic": {
+        "damage": "108",
+        "health": "27",
+        "petal_reload": "0.1",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "legendary": {
+        "damage": "324",
+        "health": "81",
+        "petal_reload": "0.1",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "mythic": {
+        "damage": "972",
+        "health": "243",
+        "petal_reload": "0.1",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "ultra": {
+        "damage": "2916",
+        "health": "729",
+        "petal_reload": "0.1",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "super": {
+        "damage": "8748",
+        "health": "2187",
+        "petal_reload": "0.1",
+        "usage_reload": null,
+        "count": "1"
+    }
+}

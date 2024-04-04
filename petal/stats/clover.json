@@ -1,0 +1,84 @@
+{
+    "name": "Clover",
+    "description": "Increases your luck. Does not stack with itself. Higher luck increases the chance of finding rarer mobs.",
+    "common": {
+        "damage": "10",
+        "health": "10",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "luck": "0.1"
+        }
+    },
+    "unusual": {
+        "damage": "30",
+        "health": "30",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "luck": "0.2"
+        }
+    },
+    "rare": {
+        "damage": "90",
+        "health": "90",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "luck": "0.3"
+        }
+    },
+    "epic": {
+        "damage": "270",
+        "health": "270",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "luck": "0.4"
+        }
+    },
+    "legendary": {
+        "damage": "810",
+        "health": "810",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "luck": "0.5"
+        }
+    },
+    "mythic": {
+        "damage": "2430",
+        "health": "2430",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "luck": "0.6"
+        }
+    },
+    "ultra": {
+        "damage": "7290",
+        "health": "7290",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "luck": "0.7"
+        }
+    },
+    "super": {
+        "damage": "21870",
+        "health": "21870",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "luck": "0.8"
+        }
+    }
+}

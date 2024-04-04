@@ -1,0 +1,74 @@
+{
+    "name": "Dahlia",
+    "description": "A small amount of heal but fairly consistent.",
+    "unusual": {
+        "damage": "5.0",
+        "health": "5.0",
+        "petal_reload": "1.5",
+        "usage_reload": "1",
+        "count": "3",
+        "special_stats": {
+            "heal": "4"
+        }
+    },
+    "rare": {
+        "damage": "15.0",
+        "health": "15.0",
+        "petal_reload": "1.5",
+        "usage_reload": "1",
+        "count": "3",
+        "special_stats": {
+            "heal": "11"
+        }
+    },
+    "epic": {
+        "damage": "45.0",
+        "health": "45.0",
+        "petal_reload": "1.5",
+        "usage_reload": "1",
+        "count": "3",
+        "special_stats": {
+            "heal": "34"
+        }
+    },
+    "legendary": {
+        "damage": "135.0",
+        "health": "135.0",
+        "petal_reload": "1.5",
+        "usage_reload": "1",
+        "count": "3",
+        "special_stats": {
+            "heal": "101"
+        }
+    },
+    "mythic": {
+        "damage": "405",
+        "health": "405",
+        "petal_reload": "1.5",
+        "usage_reload": "1",
+        "count": "3",
+        "special_stats": {
+            "heal": "304"
+        }
+    },
+    "ultra": {
+        "damage": "1215",
+        "health": "1215",
+        "petal_reload": "1.5",
+        "usage_reload": "1",
+        "count": "3",
+        "special_stats": {
+            "heal": "526"
+        }
+    },
+    "super": {
+        "damage": "3645",
+        "health": "3645",
+        "petal_reload": "1.5",
+        "usage_reload": "1",
+        "count": "3",
+        "special_stats": {
+            "heal": "911"
+        }
+    }
+}

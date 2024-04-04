@@ -1,0 +1,60 @@
+{
+    "name": "Rock",
+    "description": "Extremely durable, but takes a bit longer to recharge.",
+    "common": {
+        "damage": "15",
+        "health": "45",
+        "petal_reload": "4",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "unusual": {
+        "damage": "45",
+        "health": "135",
+        "petal_reload": "4",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "rare": {
+        "damage": "135",
+        "health": "405",
+        "petal_reload": "4",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "epic": {
+        "damage": "405",
+        "health": "1215",
+        "petal_reload": "4",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "legendary": {
+        "damage": "1215",
+        "health": "3645",
+        "petal_reload": "4",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "mythic": {
+        "damage": "3645",
+        "health": "10935",
+        "petal_reload": "4",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "ultra": {
+        "damage": "10935",
+        "health": "32805",
+        "petal_reload": "4",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "super": {
+        "damage": "32805",
+        "health": "98415",
+        "petal_reload": "4",
+        "usage_reload": null,
+        "count": "1"
+    }
+}

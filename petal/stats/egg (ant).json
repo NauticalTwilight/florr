@@ -1,0 +1,84 @@
+{
+    "name": "Ant Egg",
+    "description": "Something interesting might pop out of this.",
+    "common": {
+        "damage": "0",
+        "health": "25.0",
+        "petal_reload": "1",
+        "usage_reload": "30",
+        "count": "4",
+        "special_stats": {
+            "contents": "x4 Soldier Ant (Common)"
+        }
+    },
+    "unusual": {
+        "damage": "0",
+        "health": "75.0",
+        "petal_reload": "1",
+        "usage_reload": "38",
+        "count": "4",
+        "special_stats": {
+            "contents": "x4 Soldier Ant (Unusual)"
+        }
+    },
+    "rare": {
+        "damage": "0",
+        "health": "225.0",
+        "petal_reload": "1",
+        "usage_reload": "2.4",
+        "count": "4",
+        "special_stats": {
+            "contents": "x4 Soldier Ant (Unusual)"
+        }
+    },
+    "epic": {
+        "damage": "0",
+        "health": "675.0",
+        "petal_reload": "1",
+        "usage_reload": "3.3",
+        "count": "4",
+        "special_stats": {
+            "contents": "x4 Soldier Ant (Rare)"
+        }
+    },
+    "legendary": {
+        "damage": "0",
+        "health": "2025.0",
+        "petal_reload": "1",
+        "usage_reload": "5.1",
+        "count": "4",
+        "special_stats": {
+            "contents": "x4 Soldier Ant (Epic)"
+        }
+    },
+    "mythic": {
+        "damage": "0",
+        "health": "6075.0",
+        "petal_reload": "1",
+        "usage_reload": "15.8",
+        "count": "4",
+        "special_stats": {
+            "contents": "x4 Soldier Ant (Legendary)"
+        }
+    },
+    "ultra": {
+        "damage": "0",
+        "health": "18225.0",
+        "petal_reload": "1",
+        "usage_reload": "33.6",
+        "count": "4",
+        "special_stats": {
+            "contents": "x4 Soldier Ant (Mythic)"
+        }
+    },
+    "super": {
+        "damage": "0",
+        "health": "54675.0",
+        "petal_reload": "1",
+        "usage_reload": "2",
+        "count": "4",
+        "special_stats": {
+            "contents": "x4 Soldier Ant (Mythic)"
+        }
+    }
+}

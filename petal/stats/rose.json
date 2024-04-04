@@ -1,0 +1,84 @@
+{
+    "name": "Rose",
+    "description": "Its healing properties are amazing. Not so good at combat though.",
+    "common": {
+        "damage": "5",
+        "health": "5",
+        "petal_reload": "3.5",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "heal": "8"
+        }
+    },
+    "unusual": {
+        "damage": "15",
+        "health": "15",
+        "petal_reload": "3.5",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "heal": "23"
+        }
+    },
+    "rare": {
+        "damage": "45",
+        "health": "45",
+        "petal_reload": "3.5",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "heal": "68"
+        }
+    },
+    "epic": {
+        "damage": "135",
+        "health": "135",
+        "petal_reload": "3.5",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "heal": "203"
+        }
+    },
+    "legendary": {
+        "damage": "405",
+        "health": "405",
+        "petal_reload": "3.5",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "heal": "608"
+        }
+    },
+    "mythic": {
+        "damage": "1215",
+        "health": "1215",
+        "petal_reload": "3.5",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "heal": "1823"
+        }
+    },
+    "ultra": {
+        "damage": "3645",
+        "health": "3645",
+        "petal_reload": "3.5",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "heal": "3157"
+        }
+    },
+    "super": {
+        "damage": "10935",
+        "health": "10935",
+        "petal_reload": "3.5",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "heal": "5468"
+        }
+    }
+}

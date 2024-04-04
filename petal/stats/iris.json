@@ -1,0 +1,74 @@
+{
+    "name": "Iris",
+    "description": "Very poisonous, but takes a little while to do its work.",
+    "unusual": {
+        "damage": "15",
+        "health": "15",
+        "petal_reload": "4",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "poison": "180 (60/sec)"
+        }
+    },
+    "rare": {
+        "damage": "45",
+        "health": "45",
+        "petal_reload": "4",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "poison": "540 (180/sec)"
+        }
+    },
+    "epic": {
+        "damage": "135",
+        "health": "135",
+        "petal_reload": "4",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "poison": "1620 (540/sec)"
+        }
+    },
+    "legendary": {
+        "damage": "405",
+        "health": "405",
+        "petal_reload": "4",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "poison": "4860 (1620/sec)"
+        }
+    },
+    "mythic": {
+        "damage": "1215",
+        "health": "1215",
+        "petal_reload": "4",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "poison": "14580 (4860/sec)"
+        }
+    },
+    "ultra": {
+        "damage": "3645",
+        "health": "3645",
+        "petal_reload": "4",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "poison": "43740 (14580/sec)"
+        }
+    },
+    "super": {
+        "damage": "10935",
+        "health": "10935",
+        "petal_reload": "4",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "poison": "131220 (43740/sec)"
+        }
+    }
+}

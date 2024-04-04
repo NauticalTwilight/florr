@@ -1,0 +1,92 @@
+{
+    "name": "Bur",
+    "description": "Decreases armor of the affected unit. Does not stack with itself.",
+    "common": {
+        "damage": "5",
+        "health": "5",
+        "petal_reload": "2",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor_debuff": "1.5",
+            "duration": "3"
+        }
+    },
+    "unusual": {
+        "damage": "15",
+        "health": "15",
+        "petal_reload": "2",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor_debuff": "4.5",
+            "duration": "3"
+        }
+    },
+    "rare": {
+        "damage": "45",
+        "health": "45",
+        "petal_reload": "2",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor_debuff": "13.5",
+            "duration": "3"
+        }
+    },
+    "epic": {
+        "damage": "135",
+        "health": "135",
+        "petal_reload": "2",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor_debuff": "40.5",
+            "duration": "3"
+        }
+    },
+    "legendary": {
+        "damage": "405",
+        "health": "405",
+        "petal_reload": "2",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor_debuff": "121.5",
+            "duration": "3"
+        }
+    },
+    "mythic": {
+        "damage": "1215",
+        "health": "1215",
+        "petal_reload": "2",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor_debuff": "364.5",
+            "duration": "3"
+        }
+    },
+    "ultra": {
+        "damage": "3645",
+        "health": "3645",
+        "petal_reload": "2",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor_debuff": "1093.5",
+            "duration": "3"
+        }
+    },
+    "super": {
+        "damage": "10935",
+        "health": "10935",
+        "petal_reload": "2",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor_debuff": "3280.5",
+            "duration": "3"
+        }
+    }
+}

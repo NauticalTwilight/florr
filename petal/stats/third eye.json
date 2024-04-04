@@ -1,0 +1,34 @@
+{
+    "name": "Third Eye",
+    "description": "Allows your flower to expand your petals further out. Does not stack.",
+    "mythic": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "extra_range": "140"
+        }
+    },
+    "ultra": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "extra_range": "240"
+        }
+    },
+    "super": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "extra_range": "340"
+        }
+    }
+}

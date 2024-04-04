@@ -1,0 +1,84 @@
+{
+    "name": "Shell",
+    "description": "Adds a temporary shield to yourself or allies.",
+    "common": {
+        "damage": "5",
+        "health": "25",
+        "petal_reload": "3.5",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "shield": "5"
+        }
+    },
+    "unusual": {
+        "damage": "15",
+        "health": "75",
+        "petal_reload": "3.5",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "shield": "15"
+        }
+    },
+    "rare": {
+        "damage": "45",
+        "health": "225",
+        "petal_reload": "3.5",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "shield": "45"
+        }
+    },
+    "epic": {
+        "damage": "135",
+        "health": "675",
+        "petal_reload": "3.5",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "shield": "135"
+        }
+    },
+    "legendary": {
+        "damage": "405",
+        "health": "2025",
+        "petal_reload": "3.5",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "shield": "405"
+        }
+    },
+    "mythic": {
+        "damage": "1215",
+        "health": "6075",
+        "petal_reload": "3.5",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "shield": "1215"
+        }
+    },
+    "ultra": {
+        "damage": "3645",
+        "health": "18225",
+        "petal_reload": "3.5",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "shield": "2104"
+        }
+    },
+    "super": {
+        "damage": "10935",
+        "health": "54675",
+        "petal_reload": "3.5",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "shield": "3645"
+        }
+    }
+}

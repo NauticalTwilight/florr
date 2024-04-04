@@ -1,0 +1,84 @@
+{
+    "name": "Battery",
+    "description": "Discharges electricity whenever the flower gets hit.",
+
+    "common": {
+        "health": 0,
+        "damage": 0,
+        "petal_reload": 0,
+        "usage_reload": 0,
+        "special_stats": {
+            "special_stat_name": "VALUE_STRING"
+        }
+    },
+
+    "uncommon": {
+        "health": 0,
+        "damage": 0,
+        "petal_reload": 0,
+        "usage_reload": 0,
+        "special_stats": {
+            "special_stat_name": "VALUE_STRING"
+        }
+    },
+
+    "rare": {
+        "health": 0,
+        "damage": 0,
+        "petal_reload": 0,
+        "usage_reload": 0,
+        "special_stats": {
+            "special_stat_name": "VALUE_STRING"
+        }
+    },
+
+    "epic": {
+        "health": 0,
+        "damage": 0,
+        "petal_reload": 0,
+        "usage_reload": 0,
+        "special_stats": {
+            "special_stat_name": "VALUE_STRING"
+        }
+    },
+
+    "legendary": {
+        "health": 0,
+        "damage": 0,
+        "petal_reload": 0,
+        "usage_reload": 0,
+        "special_stats": {
+            "special_stat_name": "VALUE_STRING"
+        }
+    },
+
+    "mythic": {
+        "health": 0,
+        "damage": 0,
+        "petal_reload": 0,
+        "usage_reload": 0,
+        "special_stats": {
+            "special_stat_name": "VALUE_STRING"
+        }
+    },
+
+    "ultra": {
+        "health": 0,
+        "damage": 0,
+        "petal_reload": 0,
+        "usage_reload": 0,
+        "special_stats": {
+            "special_stat_name": "VALUE_STRING"
+        }
+    },
+
+    "super": {
+        "health": 0,
+        "damage": 0,
+        "petal_reload": 0,
+        "usage_reload": 0,
+        "special_stats": {
+            "special_stat_name": "VALUE_STRING"
+        }
+    }
+}

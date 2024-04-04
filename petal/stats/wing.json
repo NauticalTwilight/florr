@@ -1,0 +1,60 @@
+{
+    "name": "Wing",
+    "description": "It comes and goes.",
+    "common": {
+        "damage": "20",
+        "health": "10",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "unusual": {
+        "damage": "60",
+        "health": "30",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "rare": {
+        "damage": "180",
+        "health": "90",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "epic": {
+        "damage": "540",
+        "health": "270",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "legendary": {
+        "damage": "1620",
+        "health": "810",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "mythic": {
+        "damage": "4860",
+        "health": "2430",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "ultra": {
+        "damage": "14580",
+        "health": "7290",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "super": {
+        "damage": "43740",
+        "health": "21870",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1"
+    }
+}

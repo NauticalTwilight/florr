@@ -1,0 +1,84 @@
+{
+    "name": "Disc",
+    "description": "Reduces damage taken from collisions from mobs and flowers.",
+    "common": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "collision_damage_resistance": "6.3%"
+        }
+    },
+    "unusual": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "collision_damage_resistance": "12.5%"
+        }
+    },
+    "rare": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "collision_damage_resistance": "18.8%"
+        }
+    },
+    "epic": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "collision_damage_resistance": "25.0%"
+        }
+    },
+    "legendary": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "collision_damage_resistance": "31.3%"
+        }
+    },
+    "mythic": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "collision_damage_resistance": "37.5%"
+        }
+    },
+    "ultra": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "collision_damage_resistance": "43.8%"
+        }
+    },
+    "super": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "collision_damage_resistance": "50.0%"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Light",
+    "description": "Weaker than most petals, but recharges very quickly.",
+    "common": {
+        "damage": "13",
+        "health": "5",
+        "petal_reload": "0.8",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "unusual": {
+        "damage": "20",
+        "health": "8",
+        "petal_reload": "0.8",
+        "usage_reload": null,
+        "count": "2"
+    },
+    "rare": {
+        "damage": "59",
+        "health": "23",
+        "petal_reload": "0.8",
+        "usage_reload": null,
+        "count": "2"
+    },
+    "epic": {
+        "damage": "117.0",
+        "health": "45.0",
+        "petal_reload": "0.8",
+        "usage_reload": null,
+        "count": "3"
+    },
+    "legendary": {
+        "damage": "351.0",
+        "health": "135.0",
+        "petal_reload": "0.8",
+        "usage_reload": null,
+        "count": "3"
+    },
+    "mythic": {
+        "damage": "631.8",
+        "health": "243",
+        "petal_reload": "0.8",
+        "usage_reload": null,
+        "count": "5"
+    },
+    "ultra": {
+        "damage": "1895.4",
+        "health": "729",
+        "petal_reload": "0.8",
+        "usage_reload": null,
+        "count": "5"
+    },
+    "super": {
+        "damage": "5686.2",
+        "health": "2187",
+        "petal_reload": "0.8",
+        "usage_reload": null,
+        "count": "5"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Honey",
+    "description": "Mobs love this. Attracts mobs to it in a large radius. Mobs will prioritize this over flowers. Affected units develop immunity to its effects after some time.",
+    "rare": {
+        "damage": "0",
+        "health": "450",
+        "petal_reload": "2",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "max_mob_rarity": "Unusual"
+        }
+    },
+    "epic": {
+        "damage": "0",
+        "health": "1350",
+        "petal_reload": "2",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "max_mob_rarity": "Rare"
+        }
+    },
+    "legendary": {
+        "damage": "0",
+        "health": "4050",
+        "petal_reload": "2",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "max_mob_rarity": "Epic"
+        }
+    },
+    "mythic": {
+        "damage": "0",
+        "health": "12150",
+        "petal_reload": "2",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "max_mob_rarity": "Legendary"
+        }
+    },
+    "ultra": {
+        "damage": "0",
+        "health": "36450",
+        "petal_reload": "2",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "max_mob_rarity": "Mythic"
+        }
+    },
+    "super": {
+        "damage": "0",
+        "health": "109350",
+        "petal_reload": "2",
+        "usage_reload": "0.5",
+        "count": "1",
+        "special_stats": {
+            "max_mob_rarity": "Ultra"
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Leaf",
+    "description": "Gathers energy from the sun to heal your flower passively.",
+    "unusual": {
+        "damage": "39",
+        "health": "36",
+        "petal_reload": "1.8",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "heal": "3/sec"
+        }
+    },
+    "rare": {
+        "damage": "117",
+        "health": "108",
+        "petal_reload": "1.8",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "heal": "9/sec"
+        }
+    },
+    "epic": {
+        "damage": "351",
+        "health": "324",
+        "petal_reload": "1.8",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "heal": "27/sec"
+        }
+    },
+    "legendary": {
+        "damage": "1053",
+        "health": "972",
+        "petal_reload": "1.8",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "heal": "81/sec"
+        }
+    },
+    "mythic": {
+        "damage": "3159",
+        "health": "2916",
+        "petal_reload": "1.8",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "heal": "243/sec"
+        }
+    },
+    "ultra": {
+        "damage": "9477",
+        "health": "8748",
+        "petal_reload": "1.8",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "heal": "421/sec"
+        }
+    },
+    "super": {
+        "damage": "28431",
+        "health": "26244",
+        "petal_reload": "1.8",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "heal": "729/sec"
+        }
+    }
+}

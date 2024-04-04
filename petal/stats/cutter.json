@@ -1,0 +1,84 @@
+{
+    "name": "Cutter",
+    "description": "A friend used to own this... now it's time for revenge. Increases body damage. Does not stack.",
+    "common": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "body_damage": "20"
+        }
+    },
+    "unusual": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "body_damage": "60"
+        }
+    },
+    "rare": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "body_damage": "180"
+        }
+    },
+    "epic": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "body_damage": "540"
+        }
+    },
+    "legendary": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "body_damage": "1620"
+        }
+    },
+    "mythic": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "body_damage": "4860"
+        }
+    },
+    "ultra": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "body_damage": "14580"
+        }
+    },
+    "super": {
+        "damage": null,
+        "health": null,
+        "petal_reload": null,
+        "usage_reload": null,
+        "count": "0",
+        "special_stats": {
+            "body_damage": "43740"
+        }
+    }
+}

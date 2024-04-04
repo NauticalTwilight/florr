@@ -1,0 +1,53 @@
+{
+    "name": "Pollen",
+    "description": "Asthmatics beware.",
+    "unusual": {
+        "damage": "45",
+        "health": "15",
+        "petal_reload": "1",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "rare": {
+        "damage": "68",
+        "health": "23",
+        "petal_reload": "1",
+        "usage_reload": "0.5",
+        "count": "2"
+    },
+    "epic": {
+        "damage": "135",
+        "health": "45.0",
+        "petal_reload": "1",
+        "usage_reload": "0.5",
+        "count": "3"
+    },
+    "legendary": {
+        "damage": "405",
+        "health": "135.0",
+        "petal_reload": "1",
+        "usage_reload": "0.5",
+        "count": "3"
+    },
+    "mythic": {
+        "damage": "1215",
+        "health": "405",
+        "petal_reload": "1",
+        "usage_reload": "0.5",
+        "count": "3"
+    },
+    "ultra": {
+        "damage": "3645",
+        "health": "1215",
+        "petal_reload": "1",
+        "usage_reload": "0.5",
+        "count": "3"
+    },
+    "super": {
+        "damage": "10935",
+        "health": "3645",
+        "petal_reload": "1",
+        "usage_reload": "0.5",
+        "count": "3"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Heavy",
+    "description": "This thing is so heavy that nothing gets in the way. Slows down petal rotation speed when equipped.",
+    "rare": {
+        "damage": "81",
+        "health": "1350",
+        "petal_reload": "10",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "epic": {
+        "damage": "243",
+        "health": "4050",
+        "petal_reload": "10",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "legendary": {
+        "damage": "729",
+        "health": "12150",
+        "petal_reload": "10",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "mythic": {
+        "damage": "2187",
+        "health": "36450",
+        "petal_reload": "10",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "ultra": {
+        "damage": "6561",
+        "health": "109350",
+        "petal_reload": "10",
+        "usage_reload": null,
+        "count": "1"
+    },
+    "super": {
+        "damage": "19683",
+        "health": "328050",
+        "petal_reload": "10",
+        "usage_reload": null,
+        "count": "1"
+    }
+}

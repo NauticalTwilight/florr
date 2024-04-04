@@ -1,0 +1,34 @@
+{
+    "name": "Basil",
+    "description": "Increases all healing received.",
+
+    "mythic": {
+        "health": null,
+        "damage": null,
+        "petal_reload": 1,
+        "usage_reload": null,
+        "special_stats": {
+            "healing_bonus": "45%"
+        }
+    },
+
+    "ultra": {
+        "health": null,
+        "damage": null,
+        "petal_reload": 1,
+        "usage_reload": null,
+        "special_stats": {
+            "healing_bonus": "50%"
+        }
+    },
+
+    "super": {
+        "health": null,
+        "damage": null,
+        "petal_reload": 1,
+        "usage_reload": null,
+        "special_stats": {
+            "healing_bonus": "55%"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Tomato",
+    "description": "Gets stronger over time.",
+    "common": {
+        "damage": "5~70",
+        "health": "10",
+        "petal_reload": "2.5",
+        "usage_reload": "3",
+        "count": "1"
+    },
+    "unusual": {
+        "damage": "15~210",
+        "health": "30",
+        "petal_reload": "2.5",
+        "usage_reload": "3",
+        "count": "1"
+    },
+    "rare": {
+        "damage": "45~630",
+        "health": "90",
+        "petal_reload": "2.5",
+        "usage_reload": "3",
+        "count": "1",
+        "special_stats": {
+            "min_damage": "45",
+            "max_damage": "630"
+        }
+    },
+    "epic": {
+        "damage": "135~1890",
+        "health": "270",
+        "petal_reload": "2.5",
+        "usage_reload": "3",
+        "count": "1"
+    },
+    "legendary": {
+        "damage": "405~5670",
+        "health": "810",
+        "petal_reload": "2.5",
+        "usage_reload": "3",
+        "count": "1"
+    },
+    "mythic": {
+        "damage": "1215~17010",
+        "health": "2430",
+        "petal_reload": "2.5",
+        "usage_reload": "3",
+        "count": "1"
+    },
+    "ultra": {
+        "damage": "3645~51030",
+        "health": "7290",
+        "petal_reload": "2.5",
+        "usage_reload": "3",
+        "count": "1"
+    },
+    "super": {
+        "damage": "10935~153090",
+        "health": "21870",
+        "petal_reload": "2.5",
+        "usage_reload": "3",
+        "count": "1"
+    }
+}

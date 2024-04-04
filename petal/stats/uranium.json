@@ -1,0 +1,64 @@
+{
+    "name": "Uranium",
+    "description": "Periodically releases radiation in a large radius. Causes even the most passive mobs to become very aggressive. Stronger the closer the victim is to the source. -75% damage versus other flowers.",
+    "rare": {
+        "damage": "90",
+        "health": "225",
+        "petal_reload": "2.5",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "poison": "270"
+        }
+    },
+    "epic": {
+        "damage": "270",
+        "health": "675",
+        "petal_reload": "2.5",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "poison": "810"
+        }
+    },
+    "legendary": {
+        "damage": "810",
+        "health": "2025",
+        "petal_reload": "2.5",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "poison": "2430"
+        }
+    },
+    "mythic": {
+        "damage": "2430",
+        "health": "6075",
+        "petal_reload": "2.5",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "poison": "7290"
+        }
+    },
+    "ultra": {
+        "damage": "7290",
+        "health": "18225",
+        "petal_reload": "2.5",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "poison": "21870"
+        }
+    },
+    "super": {
+        "damage": "21870",
+        "health": "54675",
+        "petal_reload": "2.5",
+        "usage_reload": "1",
+        "count": "1",
+        "special_stats": {
+            "poison": "65610"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Jelly",
+    "description": "No one likes touching this.",
+    "common": {
+        "damage": "10",
+        "health": "10",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "knockback": "300"
+        }
+    },
+    "unusual": {
+        "damage": "30",
+        "health": "30",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "knockback": "432"
+        }
+    },
+    "rare": {
+        "damage": "90",
+        "health": "90",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "knockback": "675"
+        }
+    },
+    "epic": {
+        "damage": "270",
+        "health": "270",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "knockback": "1100"
+        }
+    },
+    "legendary": {
+        "damage": "810",
+        "health": "810",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "knockback": "2700"
+        }
+    },
+    "mythic": {
+        "damage": "2430",
+        "health": "2430",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "knockback": "7400"
+        }
+    },
+    "ultra": {
+        "damage": "7290",
+        "health": "7290",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "knockback": "19000"
+        }
+    },
+    "super": {
+        "damage": "21870",
+        "health": "21870",
+        "petal_reload": "2.5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "knockback": "50700"
+        }
+    }
+}

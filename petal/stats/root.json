@@ -1,0 +1,84 @@
+{
+    "name": "Root",
+    "description": "Provides additional armor but only while in the defensive position.",
+    "common": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor": "2.5"
+        }
+    },
+    "unusual": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor": "7.5"
+        }
+    },
+    "rare": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor": "22.5"
+        }
+    },
+    "epic": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor": "67.5"
+        }
+    },
+    "legendary": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor": "202.5"
+        }
+    },
+    "mythic": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor": "607.5"
+        }
+    },
+    "ultra": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor": "1052.2"
+        }
+    },
+    "super": {
+        "damage": null,
+        "health": null,
+        "petal_reload": "5",
+        "usage_reload": null,
+        "count": "1",
+        "special_stats": {
+            "armor": "1822.5"
+        }
+    }
+}

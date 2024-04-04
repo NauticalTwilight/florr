@@ -1,0 +1,53 @@
+{
+    "name": "Missile",
+    "description": "You can actually shoot this one.",
+    "unusual": {
+        "damage": "75",
+        "health": "6",
+        "petal_reload": "2.5",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "rare": {
+        "damage": "225",
+        "health": "18",
+        "petal_reload": "2.5",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "epic": {
+        "damage": "675",
+        "health": "54",
+        "petal_reload": "2.5",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "legendary": {
+        "damage": "2025",
+        "health": "162",
+        "petal_reload": "2.5",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "mythic": {
+        "damage": "6075",
+        "health": "486",
+        "petal_reload": "2.5",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "ultra": {
+        "damage": "18225",
+        "health": "1458",
+        "petal_reload": "2.5",
+        "usage_reload": "0.5",
+        "count": "1"
+    },
+    "super": {
+        "damage": "54675",
+        "health": "4374",
+        "petal_reload": "2.5",
+        "usage_reload": "0.5",
+        "count": "1"
+    }
+}

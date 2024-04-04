@@ -1,0 +1,60 @@
+{
+    "name": "Sand",
+    "description": "A bunch of sand particles.",
+    "common": {
+        "damage": "5",
+        "health": "1.2",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "4"
+    },
+    "unusual": {
+        "damage": "15",
+        "health": "3.8",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "4"
+    },
+    "rare": {
+        "damage": "45",
+        "health": "11.3",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "4"
+    },
+    "epic": {
+        "damage": "135",
+        "health": "33.8",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "4"
+    },
+    "legendary": {
+        "damage": "405",
+        "health": "101.3",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "4"
+    },
+    "mythic": {
+        "damage": "1215",
+        "health": "303.8",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "4"
+    },
+    "ultra": {
+        "damage": "3645",
+        "health": "911.3",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "4"
+    },
+    "super": {
+        "damage": "10935",
+        "health": "2733.8",
+        "petal_reload": "1.5",
+        "usage_reload": null,
+        "count": "4"
+    }
+}
