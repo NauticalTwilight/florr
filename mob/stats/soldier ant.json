@@ -1,0 +1,129 @@
+{
+    "name": "Soldier Ant",
+    "description": "It's got wings and it's ready to use them.",
+    "super_spawn_message": "A Super Soldier Ant has spawned somewhere!",
+    "common": {
+        "health": "100",
+        "body_damage": "10",
+        "drops": {
+            "wing": {
+                "common": "34.1%",
+                "unusual": "6.9%"
+            },
+            "clover": {
+                "common": "19.1%",
+                "unusual": "3.5%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "375.2",
+        "body_damage": "30",
+        "drops": {
+            "wing": {
+                "common": "63.1%",
+                "unusual": "24.7%"
+            },
+            "clover": {
+                "common": "51%",
+                "unusual": "13.2%"
+            }
+        }
+    },
+    "rare": {
+        "health": "1350",
+        "body_damage": "90",
+        "drops": {
+            "wing": {
+                "common": "18.2%",
+                "unusual": "77.6%",
+                "rare": "4.2%"
+            },
+            "clover": {
+                "common": "42.6%",
+                "unusual": "55.1%",
+                "rare": "2.1%"
+            }
+        }
+    },
+    "epic": {
+        "health": "5400",
+        "body_damage": "270",
+        "drops": {
+            "wing": {
+                "unusual": "33.8%",
+                "rare": "61%",
+                "epic": "5.1%"
+            },
+            "clover": {
+                "unusual": "58.2%",
+                "rare": "39.2%",
+                "epic": "2.6%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "40500",
+        "body_damage": "810",
+        "drops": {
+            "wing": {
+                "rare": "34.9%",
+                "epic": "63%",
+                "legendary": "2%"
+            },
+            "clover": {
+                "rare": "59.1%",
+                "epic": "39.9%",
+                "legendary": "1%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "243000",
+        "body_damage": "2430",
+        "drops": {
+            "wing": {
+                "epic": "35.6%",
+                "legendary": "64.1%",
+                "mythic": "0.3%"
+            },
+            "clover": {
+                "epic": "59.6%",
+                "legendary": "40.2%",
+                "mythic": "0.2%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "7300000",
+        "body_damage": "7290",
+        "drops": {
+            "wing": {
+                "legendary": "93.8%",
+                "mythic": "6%",
+                "ultra": "0.2%"
+            },
+            "clover": {
+                "legendary": "96.9%",
+                "mythic": "3%",
+                "ultra": "0.1%"
+            }
+        }
+    },
+    "super": {
+        "health": "131200000",
+        "body_damage": "21870",
+        "drops": {
+            "wing": {
+                "legendary": "4.1%",
+                "mythic": "86.1%",
+                "ultra": "9.8%"
+            },
+            "clover": {
+                "legendary": "20.2%",
+                "mythic": "74.7%",
+                "ultra": "5%"
+            }
+        }
+    }
+}

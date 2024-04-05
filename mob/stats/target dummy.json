@@ -1,0 +1,45 @@
+{
+    "name": "Target Dummy",
+    "description": "How do you have this in your gallery?",
+    "super_spawn_message": "None (always exists in Ellne)",
+    "common": {
+        "health": "1000000000",
+        "body_damage": "20",
+        "drops": null
+    },
+    "unusual": {
+        "health": "1000000000",
+        "body_damage": "60",
+        "drops": null
+    },
+    "rare": {
+        "health": "1000000000",
+        "body_damage": "180",
+        "drops": null
+    },
+    "epic": {
+        "health": "1000000000",
+        "body_damage": "540",
+        "drops": null
+    },
+    "legendary": {
+        "health": "1000000000",
+        "body_damage": "1620",
+        "drops": null
+    },
+    "mythic": {
+        "health": "1000000000",
+        "body_damage": "4860",
+        "drops": null
+    },
+    "ultra": {
+        "health": "1000000000",
+        "body_damage": "14580",
+        "drops": null
+    },
+    "super": {
+        "health": "1000000000",
+        "body_damage": "43740",
+        "drops": null
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "name": "Dandelion",
+    "description": "Puffy",
+    "super_spawn_message": "A Super Dandelion has spawned somewhere!",
+    "rare": {
+        "health": "337.5",
+        "body_damage": "135",
+        "special_stats": {
+            "missile_health": "450",
+            "missile_damage": "135",
+            "duration": "30"
+        },
+        "drops": {
+            "dandelion": {
+                "common": "0.6%",
+                "unusual": "87.2%",
+                "rare": "12.2%"
+            }
+        }
+    },
+    "epic": {
+        "health": "1350",
+        "body_damage": "405",
+        "special_stats": {
+            "missile_health": "1350",
+            "missile_damage": "405",
+            "duration": "30"
+        },
+        "drops": {
+            "dandelion": {
+                "unusual": "3.9%",
+                "rare": "81.5%",
+                "epic": "14.6%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "10125",
+        "body_damage": "1215",
+        "special_stats": {
+            "missile_health": "4050",
+            "missile_damage": "1215",
+            "duration": "30"
+        },
+        "drops": {
+            "dandelion": {
+                "rare": "4.3%",
+                "epic": "89.7%",
+                "legendary": "6%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "60750",
+        "body_damage": "3645",
+        "special_stats": {
+            "missile_health": "12150",
+            "missile_damage": "3645",
+            "duration": "30"
+        },
+        "drops": {
+            "dandelion": {
+                "epic": "4.5%",
+                "legendary": "94.5%",
+                "mythic": "1%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "1825000",
+        "body_damage": "10935",
+        "special_stats": {
+            "missile_health": "36450",
+            "missile_damage": "10935",
+            "duration": "30"
+        },
+        "drops": {
+            "dandelion": {
+                "legendary": "82.6%",
+                "mythic": "16.8%",
+                "ultra": "0.6%"
+            }
+        }
+    },
+    "super": {
+        "health": "32800000",
+        "body_damage": "32805",
+        "special_stats": {
+            "missile_health": "109350",
+            "missile_damage": "32805",
+            "duration": "30"
+        },
+        "drops": {
+            "dandelion": {
+                "mythic": "73.4%",
+                "ultra": "26.6%"
+            }
+        }
+    }
+}

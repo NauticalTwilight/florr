@@ -1,0 +1,125 @@
+{
+    "name": "Fire Ant Burrow",
+    "description": "What could be in here?",
+    "super_spawn_message": "A Super Fire Ant Burrow has spawned somewhere!",
+    "common": {
+        "health": null,
+        "body_damage": null,
+        "drops": {
+            "magnet": {
+                "common": "66.2%",
+                "unusual": "30.6%"
+            },
+            "disc": {
+                "common": "63.8%",
+                "unusual": "19.4%"
+            }
+        }
+    },
+    "unusual": {
+        "health": null,
+        "body_damage": null,
+        "drops": {
+            "magnet": {
+                "common": "23.2%",
+                "unusual": "76.8%"
+            },
+            "disc": {
+                "common": "42%",
+                "unusual": "57.9%"
+            }
+        }
+    },
+    "rare": {
+        "health": null,
+        "body_damage": null,
+        "drops": {
+            "magnet": {
+                "unusual": "80.5%",
+                "rare": "19.5%"
+            },
+            "disc": {
+                "common": "0.6%",
+                "unusual": "87.2%",
+                "rare": "12.2%"
+            }
+        }
+    },
+    "epic": {
+        "health": null,
+        "body_damage": null,
+        "drops": {
+            "magnet": {
+                "rare": "76.4%",
+                "epic": "23.1%"
+            },
+            "disc": {
+                "unusual": "3.9%",
+                "rare": "81.5%",
+                "epic": "14.6%"
+            }
+        }
+    },
+    "legendary": {
+        "health": null,
+        "body_damage": null,
+        "drops": {
+            "magnet": {
+                "rare": "0.5%",
+                "epic": "89.7%",
+                "legendary": "9.8%"
+            },
+            "disc": {
+                "rare": "4.3%",
+                "epic": "89.7%",
+                "legendary": "6%"
+            }
+        }
+    },
+    "mythic": {
+        "health": null,
+        "body_damage": null,
+        "drops": {
+            "magnet": {
+                "epic": "0.6%",
+                "legendary": "97.8%",
+                "mythic": "1.6%"
+            },
+            "disc": {
+                "epic": "4.5%",
+                "legendary": "94.5%",
+                "mythic": "1%"
+            }
+        }
+    },
+    "ultra": {
+        "health": null,
+        "body_damage": null,
+        "drops": {
+            "magnet": {
+                "legendary": "72.6%",
+                "mythic": "26.3%",
+                "ultra": "1%"
+            },
+            "disc": {
+                "legendary": "82.6%",
+                "mythic": "16.8%",
+                "ultra": "0.6%"
+            }
+        }
+    },
+    "super": {
+        "health": null,
+        "body_damage": null,
+        "drops": {
+            "magnet": {
+                "mythic": "59.7%",
+                "ultra": "40.3%"
+            },
+            "disc": {
+                "mythic": "73.4%",
+                "ultra": "26.6%"
+            }
+        }
+    }
+}

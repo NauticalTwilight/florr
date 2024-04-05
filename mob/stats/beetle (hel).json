@@ -1,0 +1,174 @@
+{
+    "name": "Hel Beetle",
+    "description": "Scourge that spawns in the other plane.",
+    "super_spawn_message": "You sense ominous vibrations coming from a different realm...",
+    "common": {
+        "health": "250",
+        "body_damage": "50",
+        "drops": {
+            "egg": {
+                "common": "8.2%",
+                "unusual": "1.4%"
+            },
+            "mark": {
+                "common": "4.2%",
+                "unusual": "0.7%"
+            },
+            "dice": {
+                "common": "34.1%",
+                "unusual": "6.9%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "938",
+        "body_damage": "150",
+        "drops": {
+            "egg": {
+                "common": "27.7%",
+                "unusual": "5.5%"
+            },
+            "mark": {
+                "common": "15.4%",
+                "unusual": "2.8%"
+            },
+            "dice": {
+                "common": "63.1%",
+                "unusual": "24.7%"
+            }
+        }
+    },
+    "rare": {
+        "health": "3375",
+        "body_damage": "450",
+        "drops": {
+            "egg": {
+                "common": "62.4%",
+                "unusual": "27.9%",
+                "rare": "0.9%"
+            },
+            "mark": {
+                "common": "54.5%",
+                "unusual": "15.1%",
+                "rare": "0.4%"
+            },
+            "dice": {
+                "common": "18.2%",
+                "unusual": "77.6%",
+                "rare": "4.2%"
+            }
+        }
+    },
+    "epic": {
+        "health": "13500",
+        "body_damage": "1350",
+        "drops": {
+            "egg": {
+                "common": "0.02%",
+                "unusual": "80.5%",
+                "rare": "18.4%",
+                "epic": "1%"
+            },
+            "mark": {
+                "common": "1.4%",
+                "unusual": "88.3%",
+                "rare": "9.7%",
+                "epic": "0.5%"
+            },
+            "dice": {
+                "unusual": "33.8%",
+                "rare": "61%",
+                "epic": "5.1%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "101250",
+        "body_damage": "4050",
+        "drops": {
+            "egg": {
+                "unusual": "1.3%",
+                "rare": "79.7%",
+                "epic": "18.6%",
+                "legendary": "0.4%"
+            },
+            "mark": {
+                "unusual": "11.5%",
+                "rare": "78.6%",
+                "epic": "9.8%",
+                "legendary": "0.2%"
+            },
+            "dice": {
+                "rare": "34.9%",
+                "epic": "63%",
+                "legendary": "2%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "607500",
+        "body_damage": "12150",
+        "drops": {
+            "egg": {
+                "epic": "81.3%",
+                "legendary": "18.6%",
+                "mythic": "0.06%"
+            },
+            "mark": {
+                "rare": "0.5%",
+                "epic": "89.7%",
+                "legendary": "9.8%",
+                "mythic": "0.03%"
+            },
+            "dice": {
+                "epic": "35.6%",
+                "legendary": "64.1%",
+                "mythic": "0.3%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "18250000",
+        "body_damage": "36450",
+        "drops": {
+            "egg": {
+                "epic": "1.6%",
+                "legendary": "97.1%",
+                "mythic": "1.2%",
+                "ultra": "0.04%"
+            },
+            "mark": {
+                "epic": "12.6%",
+                "legendary": "86.7%",
+                "mythic": "0.6%",
+                "ultra": "0.02%"
+            },
+            "dice": {
+                "legendary": "93.8%",
+                "mythic": "6%",
+                "ultra": "0.2%"
+            }
+        }
+    },
+    "super": {
+        "health": "328000000",
+        "body_damage": "109350",
+        "drops": {
+            "egg": {
+                "legendary": "59.7%",
+                "mythic": "38.6%",
+                "ultra": "1.7%"
+            },
+            "mark": {
+                "legendary": "77.3%",
+                "mythic": "21.9%",
+                "ultra": "0.8%"
+            },
+            "dice": {
+                "legendary": "4.1%",
+                "mythic": "86.1%",
+                "ultra": "9.8%"
+            }
+        }
+    }
+}

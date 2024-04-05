@@ -1,0 +1,165 @@
+{
+    "name": "Termite Mound",
+    "description": "Termites come in and come out. Can't explain that.",
+    "super_spawn_message": "A Super Termite Mound has spawned somewhere!",
+    "common": {
+        "health": "750",
+        "body_damage": "15",
+        "drops": {
+            "soil": {
+                "common": "59.8%",
+                "unusual": "16.4%"
+            },
+            "relic": {
+                "common": "45.5%",
+                "unusual": "10.1%"
+            },
+            "rubber": {
+                "common": "53.9%",
+                "unusual": "13.3%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "2814",
+        "body_damage": "45",
+        "drops": {
+            "soil": {
+                "common": "48.5%",
+                "unusual": "51.2%"
+            },
+            "relic": {
+                "common": "61.3%",
+                "unusual": "34.8%"
+            },
+            "rubber": {
+                "common": "55.3%",
+                "unusual": "43.6%"
+            }
+        }
+    },
+    "rare": {
+        "health": null,
+        "body_damage": null,
+        "drops": {
+            "soil": {
+                "common": "1.3%",
+                "unusual": "88.4%",
+                "rare": "10.3%"
+            },
+            "relic": {
+                "common": "7.7%",
+                "unusual": "86%",
+                "rare": "6.3%"
+            },
+            "rubber": {
+                "common": "3.2%",
+                "unusual": "88.5%",
+                "rare": "8.3%"
+            }
+        }
+    },
+    "epic": {
+        "health": null,
+        "body_damage": null,
+        "drops": {
+            "soil": {
+                "unusual": "6.7%",
+                "rare": "81%",
+                "epic": "12.3%"
+            },
+            "relic": {
+                "unusual": "19.7%",
+                "rare": "72.7%",
+                "epic": "7.6%"
+            },
+            "rubber": {
+                "unusual": "11.4%",
+                "rare": "78.6%",
+                "epic": "10%"
+            }
+        }
+    },
+    "legendary": {
+        "health": null,
+        "body_damage": null,
+        "drops": {
+            "soil": {
+                "rare": "7.2%",
+                "epic": "87.7%",
+                "legendary": "5%"
+            },
+            "relic": {
+                "rare": "20.7%",
+                "epic": "76.3%",
+                "legendary": "3.1%"
+            },
+            "rubber": {
+                "rare": "12.2%",
+                "epic": "83.7%",
+                "legendary": "4.1%"
+            }
+        }
+    },
+    "mythic": {
+        "health": null,
+        "body_damage": null,
+        "drops": {
+            "soil": {
+                "epic": "7.5%",
+                "legendary": "91.7%",
+                "mythic": "0.8%"
+            },
+            "relic": {
+                "epic": "21.2%",
+                "legendary": "78.3%",
+                "mythic": "0.5%"
+            },
+            "rubber": {
+                "epic": "12.6%",
+                "legendary": "86.7%",
+                "mythic": "0.6%"
+            }
+        }
+    },
+    "ultra": {
+        "health": null,
+        "body_damage": null,
+        "drops": {
+            "soil": {
+                "legendary": "85.2%",
+                "mythic": "14.3%",
+                "ultra": "0.5%"
+            },
+            "relic": {
+                "legendary": "90.9%",
+                "mythic": "8.8%",
+                "ultra": "0.3%"
+            },
+            "rubber": {
+                "legendary": "88%",
+                "mythic": "11.6%",
+                "ultra": "0.4%"
+            }
+        }
+    },
+    "super": {
+        "health": null,
+        "body_damage": null,
+        "drops": {
+            "soil": {
+                "mythic": "77.2%",
+                "ultra": "22.7%"
+            },
+            "relic": {
+                "legendary": "0.8%",
+                "mythic": "84.8%",
+                "ultra": "14.3%"
+            },
+            "rubber": {
+                "mythic": "81.2%",
+                "ultra": "18.6%"
+            }
+        }
+    }
+}

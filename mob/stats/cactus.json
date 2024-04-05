@@ -1,0 +1,123 @@
+{
+    "name": "Cactus",
+    "description": "Avoid touching it, it hurts",
+    "super_spawn_message": "A tower of thorns rises from the sands...",
+    "common": {
+        "health": "75~112.5",
+        "body_damage": "5",
+        "special_stats": {
+            "missile_health": "30",
+            "missile_damage": "40"
+        },
+        "drops": {
+            "cactus": {
+                "common": "45.5%",
+                "unusual": "10.1%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "281.4~422.1",
+        "body_damage": "15",
+        "special_stats": {
+            "missile_health": "90",
+            "missile_damage": "120"
+        },
+        "drops": {
+            "cactus": {
+                "common": "61.3%",
+                "unusual": "34.8%"
+            }
+        }
+    },
+    "rare": {
+        "health": "1012.5~1518.75",
+        "body_damage": "45",
+        "special_stats": {
+            "missile_health": "270",
+            "missile_damage": "360"
+        },
+        "drops": {
+            "cactus": {
+                "common": "7.7%",
+                "unusual": "86%",
+                "rare": "6.3%"
+            }
+        }
+    },
+    "epic": {
+        "health": "4050~6075",
+        "body_damage": "135",
+        "special_stats": {
+            "missile_health": "810",
+            "missile_damage": "1080"
+        },
+        "drops": {
+            "cactus": {
+                "unusual": "19.7%",
+                "rare": "72.7%",
+                "epic": "7.6%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "30375~45562.5",
+        "body_damage": "405",
+        "special_stats": {
+            "missile_health": "2430",
+            "missile_damage": "3240"
+        },
+        "drops": {
+            "cactus": {
+                "rare": "20.7%",
+                "epic": "76.3%",
+                "legendary": "3.1%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "182250~273375",
+        "body_damage": "1215",
+        "special_stats": {
+            "missile_health": "7290",
+            "missile_damage": "9720"
+        },
+        "drops": {
+            "cactus": {
+                "epic": "21.2%",
+                "legendary": "78.3%",
+                "mythic": "0.5%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "5475000~8212500",
+        "body_damage": "3645",
+        "special_stats": {
+            "missile_health": "21870",
+            "missile_damage": "29160"
+        },
+        "drops": {
+            "cactus": {
+                "legendary": "90.9%",
+                "mythic": "8.8%",
+                "ultra": "0.3%"
+            }
+        }
+    },
+    "super": {
+        "health": "98400000~147600000",
+        "body_damage": "10935",
+        "special_stats": {
+            "missile_health": "65610",
+            "missile_damage": "87480"
+        },
+        "drops": {
+            "cactus": {
+                "legendary": "0.8%",
+                "mythic": "84.8%",
+                "ultra": "14.3%"
+            }
+        }
+    }
+}

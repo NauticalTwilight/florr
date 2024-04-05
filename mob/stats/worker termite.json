@@ -1,0 +1,153 @@
+{
+    "name": "Worker Termite",
+    "description": "It's a bit temperamental, probably from working all the time. These creatures appear to be connected somehow.",
+    "super_spawn_message": "A Super Worker Termite has spawned somewhere!",
+    "common": {
+        "health": "125",
+        "body_damage": "10",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "common": "19.1%",
+                "unusual": "3.5%"
+            },
+            "plank": {
+                "common": "45.5%",
+                "unusual": "10.1%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "469",
+        "body_damage": "30",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "common": "51%",
+                "unusual": "13.2%"
+            },
+            "plank": {
+                "common": "61.3%",
+                "unusual": "34.8%"
+            }
+        }
+    },
+    "rare": {
+        "health": "1687.5",
+        "body_damage": "90",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "common": "42.6%",
+                "unusual": "55.1%",
+                "rare": "2.1%"
+            },
+            "plank": {
+                "common": "7.7%",
+                "unusual": "86%",
+                "rare": "6.3%"
+            }
+        }
+    },
+    "epic": {
+        "health": "6750",
+        "body_damage": "270",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "unusual": "58.2%",
+                "rare": "39.2%",
+                "epic": "2.6%"
+            },
+            "plank": {
+                "unusual": "19.7%",
+                "rare": "72.7%",
+                "epic": "7.6%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "50625",
+        "body_damage": "810",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "rare": "59.1%",
+                "epic": "39.9%",
+                "legendary": "1%"
+            },
+            "plank": {
+                "rare": "20.7%",
+                "epic": "76.3%",
+                "legendary": "3.1%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "303750",
+        "body_damage": "2430",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "epic": "59.6%",
+                "legendary": "40.2%",
+                "mythic": "0.2%"
+            },
+            "plank": {
+                "epic": "21.2%",
+                "legendary": "78.3%",
+                "mythic": "0.5%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "9125000",
+        "body_damage": "7290",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "legendary": "96.9%",
+                "mythic": "3%",
+                "ultra": "0.1%"
+            },
+            "plank": {
+                "legendary": "90.9%",
+                "mythic": "8.8%",
+                "ultra": "0.3%"
+            }
+        }
+    },
+    "super": {
+        "health": "164000000",
+        "body_damage": "21870",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "legendary": "20.2%",
+                "mythic": "74.7%",
+                "ultra": "5%"
+            },
+            "plank": {
+                "legendary": "0.8%",
+                "mythic": "84.8%",
+                "ultra": "14.3%"
+            }
+        }
+    }
+}

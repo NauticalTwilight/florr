@@ -1,0 +1,165 @@
+{
+    "name": "Baby Ant",
+    "description": "Weak and defenseless, but big dreams.",
+    "super_spawn_message": "A Super Baby Ant has spawned somewhere!",
+    "common": {
+        "health": "25",
+        "body_damage": "10",
+        "drops": {
+            "leaf": {
+                "common": "45.5%",
+                "unusual": "10.1%"
+            },
+            "rice": {
+                "common": "59.8%",
+                "unusual": "16.4%"
+            },
+            "light": {
+                "common": "59.8%",
+                "unusual": "16.4%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "93.8",
+        "body_damage": "30",
+        "drops": {
+            "leaf": {
+                "common": "61.3%",
+                "unusual": "34.8%"
+            },
+            "rice": {
+                "common": "48.5%",
+                "unusual": "51.2%"
+            },
+            "light": {
+                "common": "48.5%",
+                "unusual": "51.2%"
+            }
+        }
+    },
+    "rare": {
+        "health": "337.5",
+        "body_damage": "90",
+        "drops": {
+            "leaf": {
+                "common": "7.7%",
+                "unusual": "86%",
+                "rare": "6.3%"
+            },
+            "rice": {
+                "common": "1.3%",
+                "unusual": "88.4%",
+                "rare": "10.3%"
+            },
+            "light": {
+                "common": "1.3%",
+                "unusual": "88.4%",
+                "rare": "10.3%"
+            }
+        }
+    },
+    "epic": {
+        "health": "1350",
+        "body_damage": "270",
+        "drops": {
+            "leaf": {
+                "unusual": "19.7%",
+                "rare": "72.7%",
+                "epic": "7.6%"
+            },
+            "rice": {
+                "unusual": "6.7%",
+                "rare": "81%",
+                "epic": "12.3%"
+            },
+            "light": {
+                "unusual": "6.7%",
+                "rare": "81%",
+                "epic": "12.3%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "10125",
+        "body_damage": "810",
+        "drops": {
+            "leaf": {
+                "rare": "20.7%",
+                "epic": "76.3%",
+                "legendary": "3.1%"
+            },
+            "rice": {
+                "rare": "7.2%",
+                "epic": "87.7%",
+                "legendary": "5%"
+            },
+            "light": {
+                "rare": "7.2%",
+                "epic": "87.7%",
+                "legendary": "5%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "60750",
+        "body_damage": "2430",
+        "drops": {
+            "leaf": {
+                "epic": "21.2%",
+                "legendary": "78.3%",
+                "mythic": "0.5%"
+            },
+            "rice": {
+                "epic": "7.5%",
+                "legendary": "91.7%",
+                "mythic": "0.8%"
+            },
+            "light": {
+                "epic": "7.5%",
+                "legendary": "91.7%",
+                "mythic": "0.8%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "1825000",
+        "body_damage": "7290",
+        "drops": {
+            "leaf": {
+                "legendary": "90.9%",
+                "mythic": "8.8%",
+                "ultra": "0.3%"
+            },
+            "rice": {
+                "legendary": "85.2%",
+                "mythic": "14.3%",
+                "ultra": "0.5%"
+            },
+            "light": {
+                "legendary": "85.2%",
+                "mythic": "14.3%",
+                "ultra": "0.5%"
+            }
+        }
+    },
+    "super": {
+        "health": "32800000",
+        "body_damage": "21870",
+        "drops": {
+            "leaf": {
+                "legendary": "0.8%",
+                "mythic": "84.8%",
+                "ultra": "14.3%"
+            },
+            "rice": {
+                "mythic": "77.2%",
+                "ultra": "22.7%"
+            },
+            "light": {
+                "mythic": "77.2%",
+                "ultra": "22.7%"
+            }
+        }
+    }
+}

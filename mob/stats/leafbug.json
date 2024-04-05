@@ -1,0 +1,151 @@
+{
+    "name": "Leafbug",
+    "description": "It's not a leaf, but it is a bug.",
+    "super_spawn_message": "A Super Leafbug has spawned somewhere!",
+    "common": {
+        "health": "50",
+        "body_damage": "30",
+        "special_stats": {
+            "armor": "11"
+        },
+        "drops": {
+            "leaf": {
+                "common": "59.8%",
+                "unusual": "16.4%"
+            },
+            "root": {
+                "common": "59.8%",
+                "unusual": "16.4%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "187.6",
+        "body_damage": "90",
+        "special_stats": {
+            "armor": "33"
+        },
+        "drops": {
+            "leaf": {
+                "common": "48.5%",
+                "unusual": "51.2%"
+            },
+            "root": {
+                "common": "48.5%",
+                "unusual": "51.2%"
+            }
+        }
+    },
+    "rare": {
+        "health": "675",
+        "body_damage": "270",
+        "special_stats": {
+            "armor": "98"
+        },
+        "drops": {
+            "leaf": {
+                "common": "1.3%",
+                "unusual": "88.4%",
+                "rare": "10.3%"
+            },
+            "root": {
+                "common": "1.3%",
+                "unusual": "88.4%",
+                "rare": "10.3%"
+            }
+        }
+    },
+    "epic": {
+        "health": "2700",
+        "body_damage": "810",
+        "special_stats": {
+            "armor": "294"
+        },
+        "drops": {
+            "leaf": {
+                "unusual": "6.7%",
+                "rare": "81%",
+                "epic": "12.3%"
+            },
+            "root": {
+                "unusual": "6.7%",
+                "rare": "81%",
+                "epic": "12.3%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "20250",
+        "body_damage": "2430",
+        "special_stats": {
+            "armor": "883"
+        },
+        "drops": {
+            "leaf": {
+                "rare": "7.2%",
+                "epic": "87.7%",
+                "legendary": "5%"
+            },
+            "root": {
+                "rare": "7.2%",
+                "epic": "87.7%",
+                "legendary": "5%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "121500",
+        "body_damage": "7290",
+        "special_stats": {
+            "armor": "2649"
+        },
+        "drops": {
+            "leaf": {
+                "epic": "7.5%",
+                "legendary": "91.7%",
+                "mythic": "0.8%"
+            },
+            "root": {
+                "epic": "7.5%",
+                "legendary": "91.7%",
+                "mythic": "0.8%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "3650000",
+        "body_damage": "21870",
+        "special_stats": {
+            "armor": "7946"
+        },
+        "drops": {
+            "leaf": {
+                "legendary": "85.2%",
+                "mythic": "14.3%",
+                "ultra": "0.5%"
+            },
+            "root": {
+                "legendary": "85.2%",
+                "mythic": "14.3%",
+                "ultra": "0.5%"
+            }
+        }
+    },
+    "super": {
+        "health": "65600000",
+        "body_damage": "65610",
+        "special_stats": {
+            "armor": "22526"
+        },
+        "drops": {
+            "leaf": {
+                "mythic": "77.2%",
+                "ultra": "22.7%"
+            },
+            "root": {
+                "mythic": "77.2%",
+                "ultra": "22.7%"
+            }
+        }
+    }
+}

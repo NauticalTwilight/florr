@@ -1,0 +1,128 @@
+{
+    "name": "Dark Ladybug",
+    "description": "Cute and harmless... if left unprovoked.",
+    "super_spawn_message": "A Super Ladybug has spawned somewhere!",
+    "common": {
+        "health": "87.5",
+        "body_damage": "10",
+        "drops": {
+            "dahlia": {
+                "common": "59.8%",
+                "unusual": "16.4%"
+            },
+            "yin yang": {
+                "common": "34.1%",
+                "unusual": "6.9%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "328.3",
+        "body_damage": "30",
+        "drops": {
+            "dahlia": {
+                "common": "48.5%",
+                "unusual": "51.2%"
+            },
+            "yin yang": {
+                "common": "63.1%",
+                "unusual": "24.7%"
+            }
+        }
+    },
+    "rare": {
+        "health": "1181.25",
+        "body_damage": "90",
+        "drops": {
+            "dahlia": {
+                "common": "1.3%",
+                "unusual": "88.4%",
+                "rare": "10.3%"
+            },
+            "yin yang": {
+                "common": "18.2%",
+                "unusual": "77.6%",
+                "rare": "4.2%"
+            }
+        }
+    },
+    "epic": {
+        "health": "4725",
+        "body_damage": "270",
+        "drops": {
+            "dahlia": {
+                "unusual": "6.7%",
+                "rare": "81%",
+                "epic": "12.3%"
+            },
+            "yin yang": {
+                "unusual": "33.8%",
+                "rare": "61%",
+                "epic": "5.1%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "35437.5",
+        "body_damage": "810",
+        "drops": {
+            "dahlia": {
+                "rare": "7.2%",
+                "epic": "87.7%",
+                "legendary": "5%"
+            },
+            "yin yang": {
+                "rare": "34.9%",
+                "epic": "63%",
+                "legendary": "2%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "212625",
+        "body_damage": "2430",
+        "drops": {
+            "dahlia": {
+                "epic": "7.5%",
+                "legendary": "91.7%",
+                "mythic": "0.8%"
+            },
+            "yin yang": {
+                "epic": "35.6%",
+                "legendary": "64.1%",
+                "mythic": "0.3%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "6387500",
+        "body_damage": "7290",
+        "drops": {
+            "dahlia": {
+                "legendary": "85.2%",
+                "mythic": "14.3%",
+                "ultra": "0.5%"
+            },
+            "yin yang": {
+                "legendary": "93.8%",
+                "mythic": "6%",
+                "ultra": "0.2%"
+            }
+        }
+    },
+    "super": {
+        "health": "114800000",
+        "body_damage": "21870",
+        "drops": {
+            "dahlia": {
+                "mythic": "77.2%",
+                "ultra": "22.7%"
+            },
+            "yin yang": {
+                "legendary": "4.1%",
+                "mythic": "86.1%",
+                "ultra": "9.8%"
+            }
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "name": "Termite Overmind",
+    "description": "The one who sees all.",
+    "super_spawn_message": "A Super Termite Overmind has spawned somewhere!",
+    "common": {
+        "health": "500",
+        "body_damage": "10",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "common": "66.2%",
+                "unusual": "30.6%"
+            },
+            "tomato": {
+                "common": "45.5%",
+                "unusual": "10.1%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "1876",
+        "body_damage": "30",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "common": "23.2%",
+                "unusual": "76.8%"
+            },
+            "tomato": {
+                "common": "61.3%",
+                "unusual": "34.8%"
+            }
+        }
+    },
+    "rare": {
+        "health": "6750",
+        "body_damage": "90",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "unusual": "80.5%",
+                "rare": "19.5%"
+            },
+            "tomato": {
+                "common": "7.7%",
+                "unusual": "86%",
+                "rare": "6.3%"
+            }
+        }
+    },
+    "epic": {
+        "health": "27000",
+        "body_damage": "270",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "rare": "76.4%",
+                "epic": "23.1%"
+            },
+            "tomato": {
+                "unusual": "19.7%",
+                "rare": "72.7%",
+                "epic": "7.6%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "202500",
+        "body_damage": "810",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "rare": "0.5%",
+                "epic": "89.7%",
+                "legendary": "9.8%"
+            },
+            "tomato": {
+                "rare": "20.7%",
+                "epic": "76.3%",
+                "legendary": "3.1%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "1215000",
+        "body_damage": "2430",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "epic": "0.6%",
+                "legendary": "97.8%",
+                "mythic": "1.6%"
+            },
+            "tomato": {
+                "epic": "21.2%",
+                "legendary": "78.3%",
+                "mythic": "0.5%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "36500000",
+        "body_damage": "7290",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "legendary": "72.6%",
+                "mythic": "26.3%",
+                "ultra": "1%"
+            },
+            "tomato": {
+                "legendary": "90.9%",
+                "mythic": "8.8%",
+                "ultra": "0.3%"
+            },
+            "compass": {
+                "ultra": "2%"
+            }
+        }
+    },
+    "super": {
+        "health": "656000000",
+        "body_damage": "21870",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "mythic": "59.7%",
+                "ultra": "40.3%"
+            },
+            "tomato": {
+                "legendary": "0.8%",
+                "mythic": "84.8%",
+                "ultra": "14.3%"
+            },
+            "compass": {
+                "ultra": "64.3%"
+            }
+        }
+    }
+}

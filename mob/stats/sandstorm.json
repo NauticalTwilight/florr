@@ -1,0 +1,129 @@
+{
+    "name": "Sandstorm",
+    "description": "Darude (1999)",
+    "super_spawn_message": "A Super Sandstorm has spawned somewhere!",
+    "common": {
+        "health": "125",
+        "body_damage": "40",
+        "drops": {
+            "sand": {
+                "common": "45.5%",
+                "unusual": "10.1%"
+            },
+            "stick": {
+                "common": "19.1%",
+                "unusual": "3.5%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "469",
+        "body_damage": "120",
+        "drops": {
+            "sand": {
+                "common": "61.3%",
+                "unusual": "34.8%"
+            },
+            "stick": {
+                "common": "51%",
+                "unusual": "13.2%"
+            }
+        }
+    },
+    "rare": {
+        "health": "1687.5",
+        "body_damage": "360",
+        "drops": {
+            "sand": {
+                "common": "7.7%",
+                "unusual": "86%",
+                "rare": "6.3%"
+            },
+            "stick": {
+                "common": "42.6%",
+                "unusual": "55.1%",
+                "rare": "2.1%"
+            }
+        }
+    },
+    "epic": {
+        "health": "6750",
+        "body_damage": "1080",
+        "drops": {
+            "sand": {
+                "unusual": "19.7%",
+                "rare": "72.7%",
+                "epic": "7.6%"
+            },
+            "stick": {
+                "unusual": "58.2%",
+                "rare": "39.2%",
+                "epic": "2.6%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "50625",
+        "body_damage": "3240",
+        "drops": {
+            "sand": {
+                "rare": "20.7%",
+                "epic": "76.3%",
+                "legendary": "3.1%"
+            },
+            "stick": {
+                "rare": "59.1%",
+                "epic": "39.9%",
+                "legendary": "1%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "303750",
+        "body_damage": "9720",
+        "drops": {
+            "sand": {
+                "epic": "21.2%",
+                "legendary": "78.3%",
+                "mythic": "0.5%"
+            },
+            "stick": {
+                "epic": "59.6%",
+                "legendary": "40.2%",
+                "mythic": "0.2%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "9125000",
+        "body_damage": "29160",
+        "drops": {
+            "sand": {
+                "legendary": "90.9%",
+                "mythic": "8.8%",
+                "ultra": "0.3%"
+            },
+            "stick": {
+                "legendary": "96.9%",
+                "mythic": "3%",
+                "ultra": "0.1%"
+            }
+        }
+    },
+    "super": {
+        "health": "164000000",
+        "body_damage": "87480",
+        "drops": {
+            "sand": {
+                "legendary": "0.8%",
+                "mythic": "84.8%",
+                "ultra": "14.3%"
+            },
+            "stick": {
+                "legendary": "20.2%",
+                "mythic": "74.7%",
+                "ultra": "5%"
+            }
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "name": "Bumble Bee",
+    "description": "GOTTA RUN",
+    "super_spawn_message": "A Super Bumble Bee has spawned somewhere!",
+    "common": {
+        "health": "25",
+        "body_damage": "20",
+        "special_stats": {
+            "missile_health": "100",
+            "missile_damage": "10"
+        },
+        "drops": {
+            "pollen": {
+                "unusual": "47.2%"
+            },
+            "honey": {
+                "common": "53.9%",
+                "unusual": "13.3%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "93.8",
+        "body_damage": "60",
+        "special_stats": {
+            "missile_health": "300",
+            "missile_damage": "30"
+        },
+        "drops": {
+            "pollen": {
+                "unusual": "92.9%"
+            },
+            "honey": {
+                "common": "55.3%",
+                "unusual": "43.6%"
+            }
+        }
+    },
+    "rare": {
+        "health": "337.5",
+        "body_damage": "180",
+        "special_stats": {
+            "missile_health": "900",
+            "missile_damage": "90"
+        },
+        "drops": {
+            "pollen": {
+                "unusual": "69.1%",
+                "rare": "30.9%"
+            },
+            "honey": {
+                "common": "3.2%",
+                "unusual": "88.5%",
+                "rare": "8.3%"
+            }
+        }
+    },
+    "epic": {
+        "health": "1350",
+        "body_damage": "540",
+        "special_stats": {
+            "missile_health": "2700",
+            "missile_damage": "270"
+        },
+        "drops": {
+            "pollen": {
+                "rare": "64%",
+                "epic": "36%"
+            },
+            "honey": {
+                "unusual": "11.4%",
+                "rare": "78.6%",
+                "epic": "10%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "10125",
+        "body_damage": "1620",
+        "special_stats": {
+            "missile_health": "8100",
+            "missile_damage": "810"
+        },
+        "drops": {
+            "pollen": {
+                "epic": "83.9%",
+                "legendary": "16.1%"
+            },
+            "honey": {
+                "rare": "12.2%",
+                "epic": "83.7%",
+                "legendary": "4.1%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "60750",
+        "body_damage": "4860",
+        "special_stats": {
+            "missile_health": "24300",
+            "missile_damage": "2430"
+        },
+        "drops": {
+            "pollen": {
+                "epic": "12.6%",
+                "legendary": "86.7%",
+                "mythic": "0.6%"
+            },
+            "honey": {
+                "epic": "12.6%",
+                "legendary": "86.7%",
+                "mythic": "0.6%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "1825000",
+        "body_damage": "14580",
+        "special_stats": {
+            "missile_health": "72900",
+            "missile_damage": "7290"
+        },
+        "drops": {
+            "pollen": {
+                "legendary": "58.1%",
+                "mythic": "40.2%",
+                "ultra": "1.7%"
+            },
+            "honey": {
+                "legendary": "88%",
+                "mythic": "11.6%",
+                "ultra": "0.4%"
+            }
+        }
+    },
+    "super": {
+        "health": "32800000",
+        "body_damage": "43740",
+        "special_stats": {
+            "missile_health": "218700",
+            "missile_damage": "21870"
+        },
+        "drops": {
+            "pollen": {
+                "mythic": "41.6%",
+                "ultra": "58.4%"
+            },
+            "honey": {
+                "mythic": "81.2%",
+                "ultra": "18.6%"
+            }
+        }
+    }
+}

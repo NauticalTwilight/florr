@@ -1,0 +1,160 @@
+{
+    "name": "Jellyfish",
+    "description": "Makes the most delicious jam.",
+    "super_spawn_message": "You hear lightning strikes coming from a far distance...",
+    "common": {
+        "health": "125",
+        "body_damage": "25",
+        "special_stats": {
+            "lightning": "7",
+            "bounces": "2"
+        },
+        "drops": {
+            "lightning": {
+                "common": "45.5%",
+                "unusual": "10.1%"
+            },
+            "jelly": {
+                "common": "59.8%",
+                "unusual": "16.4%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "469",
+        "body_damage": "75",
+        "special_stats": {
+            "lightning": "21",
+            "bounces": "3"
+        },
+        "drops": {
+            "lightning": {
+                "common": "61.3%",
+                "unusual": "34.8%"
+            },
+            "jelly": {
+                "common": "48.5%",
+                "unusual": "51.2%"
+            }
+        }
+    },
+    "rare": {
+        "health": "1687.5",
+        "body_damage": "225",
+        "special_stats": {
+            "lightning": "63",
+            "bounces": "4"
+        },
+        "drops": {
+            "lightning": {
+                "common": "7.7%",
+                "unusual": "86%",
+                "rare": "6.3%"
+            },
+            "jelly": {
+                "common": "1.3%",
+                "unusual": "88.4%",
+                "rare": "10.3%"
+            }
+        }
+    },
+    "epic": {
+        "health": "6750",
+        "body_damage": "675",
+        "special_stats": {
+            "lightning": "189",
+            "bounces": "5"
+        },
+        "drops": {
+            "lightning": {
+                "unusual": "19.7%",
+                "rare": "72.7%",
+                "epic": "7.6%"
+            },
+            "jelly": {
+                "unusual": "6.7%",
+                "rare": "81%",
+                "epic": "12.3%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "50625",
+        "body_damage": "2025",
+        "special_stats": {
+            "lightning": "567",
+            "bounces": "6"
+        },
+        "drops": {
+            "lightning": {
+                "rare": "20.7%",
+                "epic": "76.3%",
+                "legendary": "3.1%"
+            },
+            "jelly": {
+                "rare": "7.2%",
+                "epic": "87.7%",
+                "legendary": "5%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "303750",
+        "body_damage": "6075",
+        "special_stats": {
+            "lightning": "1701",
+            "bounces": "7"
+        },
+        "drops": {
+            "lightning": {
+                "epic": "21.2%",
+                "legendary": "78.3%",
+                "mythic": "0.5%"
+            },
+            "jelly": {
+                "epic": "7.5%",
+                "legendary": "91.7%",
+                "mythic": "0.8%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "9125000",
+        "body_damage": "18225",
+        "special_stats": {
+            "lightning": "5103",
+            "bounces": "8"
+        },
+        "drops": {
+            "lightning": {
+                "legendary": "90.9%",
+                "mythic": "8.8%",
+                "ultra": "0.3%"
+            },
+            "jelly": {
+                "legendary": "85.2%",
+                "mythic": "14.3%",
+                "ultra": "0.5%"
+            }
+        }
+    },
+    "super": {
+        "health": "164000000",
+        "body_damage": "54675",
+        "special_stats": {
+            "lightning": "15309",
+            "bounces": "9"
+        },
+        "drops": {
+            "lightning": {
+                "legendary": "0.8%",
+                "mythic": "84.8%",
+                "ultra": "14.3%"
+            },
+            "jelly": {
+                "mythic": "77.2%",
+                "ultra": "22.7%"
+            }
+        }
+    }
+}

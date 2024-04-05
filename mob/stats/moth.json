@@ -1,0 +1,127 @@
+{
+    "name": "Moth",
+    "description": "Easily scared, be nice.",
+    "super_spawn_message": "There's a bright light in the horizon...",
+    "common": {
+        "health": "17.5",
+        "body_damage": "10",
+        "drops": {
+            "wing": {
+                "common": "59.8%",
+                "unusual": "16.4%"
+            },
+            "bulb": {
+                "common": "59.8%",
+                "unusual": "16.4%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "65.66",
+        "body_damage": "30",
+        "drops": {
+            "wing": {
+                "common": "48.5%",
+                "unusual": "51.2%"
+            },
+            "bulb": {
+                "common": "48.5%",
+                "unusual": "51.2%"
+            }
+        }
+    },
+    "rare": {
+        "health": "236.25",
+        "body_damage": "90",
+        "drops": {
+            "wing": {
+                "common": "1.3%",
+                "unusual": "88.4%",
+                "rare": "10.3%"
+            },
+            "bulb": {
+                "common": "1.3%",
+                "unusual": "88.4%",
+                "rare": "10.3%"
+            }
+        }
+    },
+    "epic": {
+        "health": "945",
+        "body_damage": "270",
+        "drops": {
+            "wing": {
+                "unusual": "6.7%",
+                "rare": "81%",
+                "epic": "12.3%"
+            },
+            "bulb": {
+                "unusual": "6.7%",
+                "rare": "81%",
+                "epic": "12.3%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "7087.5",
+        "body_damage": "810",
+        "drops": {
+            "wing": {
+                "rare": "7.2%",
+                "epic": "87.7%",
+                "legendary": "5%"
+            },
+            "bulb": {
+                "rare": "7.2%",
+                "epic": "87.7%",
+                "legendary": "5%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "42525",
+        "body_damage": "2430",
+        "drops": {
+            "wing": {
+                "epic": "7.5%",
+                "legendary": "91.7%",
+                "mythic": "0.8%"
+            },
+            "bulb": {
+                "epic": "7.5%",
+                "legendary": "91.7%",
+                "mythic": "0.8%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "1277500",
+        "body_damage": "7290",
+        "drops": {
+            "wing": {
+                "legendary": "85.2%",
+                "mythic": "14.3%",
+                "ultra": "0.5%"
+            },
+            "bulb": {
+                "legendary": "85.2%",
+                "mythic": "14.3%",
+                "ultra": "0.5%"
+            }
+        }
+    },
+    "super": {
+        "health": "22960000",
+        "body_damage": "21870",
+        "drops": {
+            "wing": {
+                "mythic": "77.2%",
+                "ultra": "22.7%"
+            },
+            "bulb": {
+                "mythic": "77.2%",
+                "ultra": "22.7%"
+            }
+        }
+    }
+}

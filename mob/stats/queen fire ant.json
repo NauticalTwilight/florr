@@ -1,0 +1,44 @@
+{
+    "name": "Queen Fire Ant",
+    "description": "This ant is on fireeeeeeeeeeeeee.",
+    "super_spawn_message": "A Super Queen Fire Ant has spawned somewhere!",
+    "ultra": {
+        "health": "18250000",
+        "body_damage": "14580",
+        "drops": {
+            "wing": {
+                "legendary": "82.6%",
+                "mythic": "16.8%",
+                "ultra": "0.6%"
+            },
+            "basil": {
+                "legendary": "82.6%",
+                "mythic": "16.8%",
+                "ultra": "0.6%"
+            },
+            "ant egg": {
+                "legendary": "72.6%",
+                "mythic": "26.3%",
+                "ultra": "1%"
+            }
+        }
+    },
+    "super": {
+        "health": "328000000",
+        "body_damage": "43740",
+        "drops": {
+            "wing": {
+                "mythic": "73.4%",
+                "ultra": "26.6%"
+            },
+            "basil": {
+                "mythic": "73.4%",
+                "ultra": "26.6%"
+            },
+            "ant egg": {
+                "mythic": "59.7%",
+                "ultra": "40.3%"
+            }
+        }
+    }
+}

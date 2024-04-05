@@ -1,0 +1,166 @@
+{
+    "name": "Starfish",
+    "description": "His name is Patrick",
+    "super_spawn_message": "A Super Starfish has spawned somewhere!",
+    "common": {
+        "health": "150",
+        "body_damage": "20",
+        "drops": {
+            "starfish": {
+                "common": "59.8%",
+                "unusual": "16.4%"
+            },
+            "salt": {
+                "common": "19.1%",
+                "unusual": "3.5%"
+            },
+            "sand": {
+                "common": "19.1%",
+                "unusual": "3.5%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "562.8",
+        "body_damage": "60",
+        "drops": {
+            "starfish": {
+                "common": "48.5%",
+                "unusual": "51.2%"
+            },
+            "salt": {
+                "common": "51%",
+                "unusual": "13.2%"
+            },
+            "sand": {
+                "common": "51%",
+                "unusual": "13.2%"
+            }
+        }
+    },
+    "rare": {
+        "health": "2025",
+        "body_damage": "180",
+        "drops": {
+            "starfish": {
+                "common": "1.3%",
+                "unusual": "88.4%",
+                "rare": "10.3%"
+            },
+            "salt": {
+                "common": "42.6%",
+                "unusual": "55.1%",
+                "rare": "2.1%"
+            },
+            "sand": {
+                "common": "42.6%",
+                "unusual": "55.1%",
+                "rare": "2.1%"
+            }
+        }
+    },
+    "epic": {
+        "health": "8100",
+        "body_damage": "540",
+        "drops": {
+            "starfish": {
+                "unusual": "6.7%",
+                "rare": "81%",
+                "epic": "12.3%"
+            },
+            "salt": {
+                "unusual": "58.2%",
+                "rare": "39.2%",
+                "epic": "2.6%"
+            },
+            "sand": {
+                "unusual": "58.2%",
+                "rare": "39.2%",
+                "epic": "2.6%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "60750",
+        "body_damage": "1620",
+        "drops": {
+            "starfish": {
+                "rare": "7.2%",
+                "epic": "87.7%",
+                "legendary": "5%"
+            },
+            "salt": {
+                "rare": "59.1%",
+                "epic": "39.9%",
+                "legendary": "1%"
+            },
+            "sand": {
+                "rare": "59.1%",
+                "epic": "39.9%",
+                "legendary": "1%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "364500",
+        "body_damage": "4860",
+        "drops": {
+            "starfish": {
+                "epic": "7.5%",
+                "legendary": "91.7%",
+                "mythic": "0.8%"
+            },
+            "salt": {
+                "epic": "59.6%",
+                "legendary": "40.2%",
+                "mythic": "0.2%"
+            },
+            "sand": {
+                "epic": "59.6%",
+                "legendary": "40.2%",
+                "mythic": "0.2%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "10950000",
+        "body_damage": "14580",
+        "drops": {
+            "starfish": {
+                "legendary": "85.2%",
+                "mythic": "14.3%",
+                "ultra": "0.5%"
+            },
+            "salt": {
+                "legendary": "96.9%",
+                "mythic": "3%",
+                "ultra": "0.1%"
+            },
+            "sand": {
+                "legendary": "96.9%",
+                "mythic": "3%",
+                "ultra": "0.1%"
+            }
+        }
+    },
+    "super": {
+        "health": "196800000",
+        "body_damage": "43740",
+        "drops": {
+            "starfish": {
+                "mythic": "77.2%",
+                "ultra": "22.7%"
+            },
+            "salt": {
+                "legendary": "20.2%",
+                "mythic": "74.7%",
+                "ultra": "5%"
+            },
+            "sand": {
+                "legendary": "20.2%",
+                "mythic": "74.7%",
+                "ultra": "5%"
+            }
+        }
+    }
+}

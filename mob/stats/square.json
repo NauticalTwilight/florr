@@ -1,0 +1,45 @@
+{
+    "name": "Square",
+    "description": "This shape... it looks familiar...",
+    "super_spawn_message": "A Super Square has spawned somewhere!",
+    "common": {
+        "health": "37.5",
+        "body_damage": "10",
+        "drops": null
+    },
+    "unusual": {
+        "health": "140.7",
+        "body_damage": "30",
+        "drops": null
+    },
+    "rare": {
+        "health": "506.25",
+        "body_damage": "90",
+        "drops": null
+    },
+    "epic": {
+        "health": "2025",
+        "body_damage": "270",
+        "drops": null
+    },
+    "legendary": {
+        "health": "15187.5",
+        "body_damage": "810",
+        "drops": null
+    },
+    "mythic": {
+        "health": "91125",
+        "body_damage": "2430",
+        "drops": null
+    },
+    "ultra": {
+        "health": "2737500",
+        "body_damage": "7290",
+        "drops": null
+    },
+    "super": {
+        "health": "49200000",
+        "body_damage": "21870",
+        "drops": null
+    }
+}

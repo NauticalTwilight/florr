@@ -1,0 +1,129 @@
+{
+    "name": "Worker Ant",
+    "description": "It's a bit temperamental, probably from working all the time.",
+    "super_spawn_message": "A Super Worker Ant has spawned somewhere!",
+    "common": {
+        "health": "62.5",
+        "body_damage": "10",
+        "drops": {
+            "leaf": {
+                "common": "45.5%",
+                "unusual": "10.1%"
+            },
+            "corn": {
+                "common": "45.5%",
+                "unusual": "10.1%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "234.5",
+        "body_damage": "30",
+        "drops": {
+            "leaf": {
+                "common": "61.3%",
+                "unusual": "34.8%"
+            },
+            "corn": {
+                "common": "61.3%",
+                "unusual": "34.8%"
+            }
+        }
+    },
+    "rare": {
+        "health": "843.75",
+        "body_damage": "90",
+        "drops": {
+            "leaf": {
+                "common": "7.7%",
+                "unusual": "86%",
+                "rare": "6.3%"
+            },
+            "corn": {
+                "common": "7.7%",
+                "unusual": "86%",
+                "rare": "6.3%"
+            }
+        }
+    },
+    "epic": {
+        "health": "3375",
+        "body_damage": "270",
+        "drops": {
+            "leaf": {
+                "unusual": "19.7%",
+                "rare": "72.7%",
+                "epic": "7.6%"
+            },
+            "corn": {
+                "unusual": "19.7%",
+                "rare": "72.7%",
+                "epic": "7.6%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "25312.5",
+        "body_damage": "810",
+        "drops": {
+            "leaf": {
+                "rare": "20.7%",
+                "epic": "76.3%",
+                "legendary": "3.1%"
+            },
+            "corn": {
+                "rare": "20.7%",
+                "epic": "76.3%",
+                "legendary": "3.1%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "151875",
+        "body_damage": "2430",
+        "drops": {
+            "leaf": {
+                "epic": "21.2%",
+                "legendary": "78.3%",
+                "mythic": "0.5%"
+            },
+            "corn": {
+                "epic": "21.2%",
+                "legendary": "78.3%",
+                "mythic": "0.5%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "4562500",
+        "body_damage": "7290",
+        "drops": {
+            "leaf": {
+                "legendary": "90.9%",
+                "mythic": "8.8%",
+                "ultra": "0.3%"
+            },
+            "corn": {
+                "legendary": "90.9%",
+                "mythic": "8.8%",
+                "ultra": "0.3%"
+            }
+        }
+    },
+    "super": {
+        "health": "82000000",
+        "body_damage": "21870",
+        "drops": {
+            "leaf": {
+                "legendary": "0.8%",
+                "mythic": "84.8%",
+                "ultra": "14.3%"
+            },
+            "corn": {
+                "legendary": "0.8%",
+                "mythic": "84.8%",
+                "ultra": "14.3%"
+            }
+        }
+    }
+}

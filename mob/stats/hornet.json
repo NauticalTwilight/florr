@@ -1,0 +1,197 @@
+{
+    "name": "Hornet",
+    "description": "These aren't quite as nice as the little bees.",
+    "super_spawn_message": "A big yellow spot shows up in the distance...",
+    "common": {
+        "health": "62.5",
+        "body_damage": "50",
+        "special_stats": {
+            "missile_health": "100",
+            "missile_damage": "10"
+        },
+        "drops": {
+            "missile": {
+                "common": "59.8%",
+                "unusual": "16.4%"
+            },
+            "orange": {
+                "common": "59.8%",
+                "unusual": "16.4%"
+            },
+            "antennae": {
+                "common": "34.1%",
+                "unusual": "6.9%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "234.5",
+        "body_damage": "150",
+        "special_stats": {
+            "missile_health": "300",
+            "missile_damage": "30"
+        },
+        "drops": {
+            "missile": {
+                "common": "48.5%",
+                "unusual": "51.2%"
+            },
+            "orange": {
+                "common": "48.5%",
+                "unusual": "51.2%"
+            },
+            "antennae": {
+                "common": "63.1%",
+                "unusual": "24.7%"
+            }
+        }
+    },
+    "rare": {
+        "health": "843.75",
+        "body_damage": "450",
+        "special_stats": {
+            "missile_health": "900",
+            "missile_damage": "90"
+        },
+        "drops": {
+            "missile": {
+                "common": "1.3%",
+                "unusual": "88.4%",
+                "rare": "10.3%"
+            },
+            "orange": {
+                "common": "1.3%",
+                "unusual": "88.4%",
+                "rare": "10.3%"
+            },
+            "antennae": {
+                "common": "18.2%",
+                "unusual": "77.6%",
+                "rare": "4.2%"
+            }
+        }
+    },
+    "epic": {
+        "health": "3375",
+        "body_damage": "1350",
+        "special_stats": {
+            "missile_health": "2700",
+            "missile_damage": "270"
+        },
+        "drops": {
+            "missile": {
+                "unusual": "6.7%",
+                "rare": "81%",
+                "epic": "12.3%"
+            },
+            "orange": {
+                "unusual": "6.7%",
+                "rare": "81%",
+                "epic": "12.3%"
+            },
+            "antennae": {
+                "unusual": "33.8%",
+                "rare": "61%",
+                "epic": "5.1%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "25312.5",
+        "body_damage": "4050",
+        "special_stats": {
+            "missile_health": "8100",
+            "missile_damage": "810"
+        },
+        "drops": {
+            "missile": {
+                "rare": "7.2%",
+                "epic": "87.7%",
+                "legendary": "5%"
+            },
+            "orange": {
+                "rare": "7.2%",
+                "epic": "87.7%",
+                "legendary": "5%"
+            },
+            "antennae": {
+                "rare": "34.9%",
+                "epic": "63%",
+                "legendary": "2%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "151875",
+        "body_damage": "12150",
+        "special_stats": {
+            "missile_health": "24300",
+            "missile_damage": "2430"
+        },
+        "drops": {
+            "missile": {
+                "epic": "7.5%",
+                "legendary": "91.7%",
+                "mythic": "0.8%"
+            },
+            "orange": {
+                "epic": "7.5%",
+                "legendary": "91.7%",
+                "mythic": "0.8%"
+            },
+            "antennae": {
+                "epic": "35.6%",
+                "legendary": "64.1%",
+                "mythic": "0.3%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "4562500",
+        "body_damage": "36450",
+        "special_stats": {
+            "missile_health": "72900",
+            "missile_damage": "7290"
+        },
+        "drops": {
+            "missile": {
+                "legendary": "85.2%",
+                "mythic": "14.3%",
+                "ultra": "0.5%"
+            },
+            "orange": {
+                "legendary": "85.2%",
+                "mythic": "14.3%",
+                "ultra": "0.5%"
+            },
+            "antennae": {
+                "legendary": "93.8%",
+                "mythic": "6%",
+                "ultra": "0.2%"
+            }
+        }
+    },
+    "super": {
+        "health": "82000000",
+        "body_damage": "109350",
+        "special_stats": {
+            "missile_health": "218700",
+            "missile_damage": "21870"
+        },
+        "drops": {
+            "missile": {
+                "mythic": "77.2%",
+                "ultra": "22.7%"
+            },
+            "orange": {
+                "mythic": "77.2%",
+                "ultra": "22.7%"
+            },
+            "antennae": {
+                "legendary": "4.1%",
+                "mythic": "86.1%",
+                "ultra": "9.8%"
+            }
+        }
+    }
+}

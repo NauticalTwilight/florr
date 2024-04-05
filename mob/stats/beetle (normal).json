@@ -1,0 +1,132 @@
+{
+    "name": "Beetle",
+    "description": "It's hungry and flowers are its favorite meal.",
+    "super_spawn_message": "A Super Beetle has spawned somewhere!",
+    "common": {
+        "health": "100",
+        "body_damage": "30",
+        "drops": {
+            "egg": {
+                "common": "59.8%",
+                "unusual": "16.4%"
+            },
+            "ankh": {
+                "common": "4.2%",
+                "unusual": "0.7%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "375.2",
+        "body_damage": "90",
+        "drops": {
+            "egg": {
+                "common": "48.5%",
+                "unusual": "51.2%"
+            },
+            "ankh": {
+                "common": "15.4%",
+                "unusual": "2.8%"
+            }
+        }
+    },
+    "rare": {
+        "health": "1350",
+        "body_damage": "270",
+        "drops": {
+            "egg": {
+                "common": "1.3%",
+                "unusual": "88.4%",
+                "rare": "10.3%"
+            },
+            "ankh": {
+                "common": "54.5%",
+                "unusual": "15.1%",
+                "rare": "0.4%"
+            }
+        }
+    },
+    "epic": {
+        "health": "5400",
+        "body_damage": "810",
+        "drops": {
+            "egg": {
+                "unusual": "6.7%",
+                "rare": "81%",
+                "epic": "12.3%"
+            },
+            "ankh": {
+                "common": "1.4%",
+                "unusual": "88.3%",
+                "rare": "9.7%",
+                "epic": "0.5%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "40500",
+        "body_damage": "2430",
+        "drops": {
+            "egg": {
+                "rare": "7.2%",
+                "epic": "87.7%",
+                "legendary": "5%"
+            },
+            "ankh": {
+                "unusual": "11.5%",
+                "rare": "78.6%",
+                "epic": "9.8%",
+                "legendary": "0.2%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "243000",
+        "body_damage": "7290",
+        "drops": {
+            "egg": {
+                "epic": "7.5%",
+                "legendary": "91.7%",
+                "mythic": "0.8%"
+            },
+            "ankh": {
+                "rare": "0.5%",
+                "epic": "89.7%",
+                "legendary": "9.8%",
+                "mythic": "0.03%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "7300000",
+        "body_damage": "21870",
+        "drops": {
+            "egg": {
+                "legendary": "85.2%",
+                "mythic": "14.3%",
+                "ultra": "0.5%"
+            },
+            "ankh": {
+                "epic": "12.6%",
+                "legendary": "86.7%",
+                "mythic": "0.6%",
+                "ultra": "0.02%"
+            }
+        }
+    },
+    "super": {
+        "health": "131200000",
+        "body_damage": "65610",
+        "drops": {
+            "egg": {
+                "mythic": "77.2%",
+                "ultra": "22.7%"
+            },
+            "ankh": {
+                "legendary": "77.3%",
+                "mythic": "21.9%",
+                "ultra": "0.8%"
+            }
+        }
+    }
+}

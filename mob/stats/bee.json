@@ -1,0 +1,166 @@
+{
+    "name": "Bee",
+    "description": "It stings. Don't touch it.",
+    "super_spawn_message": "A Super Bee has spawned somewhere!",
+    "common": {
+        "health": "37.5",
+        "body_damage": "50",
+        "drops": {
+            "stinger": {
+                "common": "59.8%",
+                "unusual": "16.4%"
+            },
+            "pollen": {
+                "common": "34.1%",
+                "unusual": "6.9%"
+            },
+            "honey": {
+                "common": "34.1%",
+                "unusual": "6.9%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "140.7",
+        "body_damage": "150",
+        "drops": {
+            "stinger": {
+                "common": "48.5%",
+                "unusual": "51.2%"
+            },
+            "pollen": {
+                "common": "63.1%",
+                "unusual": "24.7%"
+            },
+            "honey": {
+                "common": "63.1%",
+                "unusual": "24.7%"
+            }
+        }
+    },
+    "rare": {
+        "health": "506.25",
+        "body_damage": "450",
+        "drops": {
+            "stinger": {
+                "common": "1.3%",
+                "unusual": "88.4%",
+                "rare": "10.3%"
+            },
+            "pollen": {
+                "common": "18.2%",
+                "unusual": "77.6%",
+                "rare": "4.2%"
+            },
+            "honey": {
+                "common": "18.2%",
+                "unusual": "77.6%",
+                "rare": "4.2%"
+            }
+        }
+    },
+    "epic": {
+        "health": "2025",
+        "body_damage": "1350",
+        "drops": {
+            "stinger": {
+                "unusual": "6.7%",
+                "rare": "81%",
+                "epic": "12.3%"
+            },
+            "pollen": {
+                "unusual": "33.8%",
+                "rare": "61%",
+                "epic": "5.1%"
+            },
+            "honey": {
+                "unusual": "33.8%",
+                "rare": "61%",
+                "epic": "5.1%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "15187.5",
+        "body_damage": "4050",
+        "drops": {
+            "stinger": {
+                "rare": "7.2%",
+                "epic": "87.7%",
+                "legendary": "5%"
+            },
+            "pollen": {
+                "rare": "34.9%",
+                "epic": "63%",
+                "legendary": "2%"
+            },
+            "honey": {
+                "rare": "34.9%",
+                "epic": "63%",
+                "legendary": "2%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "91125",
+        "body_damage": "12150",
+        "drops": {
+            "stinger": {
+                "epic": "7.5%",
+                "legendary": "91.7%",
+                "mythic": "0.8%"
+            },
+            "pollen": {
+                "epic": "35.6%",
+                "legendary": "64.1%",
+                "mythic": "0.3%"
+            },
+            "honey": {
+                "epic": "35.6%",
+                "legendary": "64.1%",
+                "mythic": "0.3%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "2737500",
+        "body_damage": "36450",
+        "drops": {
+            "stinger": {
+                "legendary": "85.2%",
+                "mythic": "14.3%",
+                "ultra": "0.5%"
+            },
+            "pollen": {
+                "legendary": "93.8%",
+                "mythic": "6%",
+                "ultra": "0.2%"
+            },
+            "honey": {
+                "legendary": "93.8%",
+                "mythic": "6%",
+                "ultra": "0.2%"
+            }
+        }
+    },
+    "super": {
+        "health": "49200000",
+        "body_damage": "109350",
+        "drops": {
+            "stinger": {
+                "mythic": "77.2%",
+                "ultra": "22.7%"
+            },
+            "pollen": {
+                "legendary": "4.1%",
+                "mythic": "86.1%",
+                "ultra": "9.8%"
+            },
+            "honey": {
+                "legendary": "4.1%",
+                "mythic": "86.1%",
+                "ultra": "9.8%"
+            }
+        }
+    }
+}

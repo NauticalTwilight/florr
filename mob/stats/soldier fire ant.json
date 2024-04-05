@@ -1,0 +1,128 @@
+{
+    "name": "Soldier Fire Ant",
+    "description": "This ant is on fireeeeeeeeeeeeee.",
+    "super_spawn_message": "A Super Soldier Fire Ant has spawned somewhere!",
+    "common": {
+        "health": "100",
+        "body_damage": "20",
+        "drops": {
+            "wing": {
+                "common": "34.1%",
+                "unusual": "6.9%"
+            },
+            "yucca": {
+                "common": "59.8%",
+                "unusual": "16.4%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "375.2",
+        "body_damage": "60",
+        "drops": {
+            "wing": {
+                "common": "63.1%",
+                "unusual": "24.7%"
+            },
+            "yucca": {
+                "common": "48.5%",
+                "unusual": "51.2%"
+            }
+        }
+    },
+    "rare": {
+        "health": "1350",
+        "body_damage": "180",
+        "drops": {
+            "wing": {
+                "common": "18.2%",
+                "unusual": "77.6%",
+                "rare": "4.2%"
+            },
+            "yucca": {
+                "common": "1.3%",
+                "unusual": "88.4%",
+                "rare": "10.3%"
+            }
+        }
+    },
+    "epic": {
+        "health": "5400",
+        "body_damage": "540",
+        "drops": {
+            "wing": {
+                "unusual": "33.8%",
+                "rare": "61%",
+                "epic": "5.1%"
+            },
+            "yucca": {
+                "unusual": "6.7%",
+                "rare": "81%",
+                "epic": "12.3%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "40500",
+        "body_damage": "1620",
+        "drops": {
+            "wing": {
+                "rare": "34.9%",
+                "epic": "63%",
+                "legendary": "2%"
+            },
+            "yucca": {
+                "rare": "7.2%",
+                "epic": "87.7%",
+                "legendary": "5%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "243000",
+        "body_damage": "4860",
+        "drops": {
+            "wing": {
+                "epic": "35.6%",
+                "legendary": "64.1%",
+                "mythic": "0.3%"
+            },
+            "yucca": {
+                "epic": "7.5%",
+                "legendary": "91.7%",
+                "mythic": "0.8%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "7300000",
+        "body_damage": "14580",
+        "drops": {
+            "wing": {
+                "legendary": "93.8%",
+                "mythic": "6%",
+                "ultra": "0.2%"
+            },
+            "yucca": {
+                "legendary": "85.2%",
+                "mythic": "14.3%",
+                "ultra": "0.5%"
+            }
+        }
+    },
+    "super": {
+        "health": "131200000",
+        "body_damage": "43740",
+        "drops": {
+            "wing": {
+                "legendary": "4.1%",
+                "mythic": "86.1%",
+                "ultra": "9.8%"
+            },
+            "yucca": {
+                "mythic": "77.2%",
+                "ultra": "22.7%"
+            }
+        }
+    }
+}

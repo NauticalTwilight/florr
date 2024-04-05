@@ -1,0 +1,152 @@
+{
+    "name": "Baby Termite",
+    "description": "Weak and defenseless, but big dreams. These creatures appear to be connected somehow.",
+    "super_spawn_message": "A Super Baby Termite has spawned somewhere!",
+    "common": {
+        "health": "50",
+        "body_damage": "10",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "common": "19.1%",
+                "unusual": "3.5%"
+            },
+            "carrot": {
+                "common": "59.8%",
+                "unusual": "16.4%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "187.6",
+        "body_damage": "30",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "common": "51%",
+                "unusual": "13.2%"
+            },
+            "carrot": {
+                "common": "48.5%",
+                "unusual": "51.2%"
+            }
+        }
+    },
+    "rare": {
+        "health": "675",
+        "body_damage": "90",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "common": "42.6%",
+                "unusual": "55.1%",
+                "rare": "2.1%"
+            },
+            "carrot": {
+                "common": "1.3%",
+                "unusual": "88.4%",
+                "rare": "10.3%"
+            }
+        }
+    },
+    "epic": {
+        "health": "2700",
+        "body_damage": "270",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "unusual": "58.2%",
+                "rare": "39.2%",
+                "epic": "2.6%"
+            },
+            "carrot": {
+                "unusual": "6.7%",
+                "rare": "81%",
+                "epic": "12.3%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "20250",
+        "body_damage": "810",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "rare": "59.1%",
+                "epic": "39.9%",
+                "legendary": "1%"
+            },
+            "carrot": {
+                "rare": "7.2%",
+                "epic": "87.7%",
+                "legendary": "5%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "121500",
+        "body_damage": "2430",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "epic": "59.6%",
+                "legendary": "40.2%",
+                "mythic": "0.2%"
+            },
+            "carrot": {
+                "epic": "7.5%",
+                "legendary": "91.7%",
+                "mythic": "0.8%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "3650000",
+        "body_damage": "7290",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "legendary": "96.9%",
+                "mythic": "3%",
+                "ultra": "0.1%"
+            },
+            "carrot": {
+                "legendary": "85.2%",
+                "mythic": "14.3%",
+                "ultra": "0.5%"
+            }
+        }
+    },
+    "super": {
+        "health": "65600000",
+        "body_damage": "21870",
+        "special_stats": {
+            "psyonic_connection": null
+        },
+        "drops": {
+            "relic": {
+                "legendary": "20.2%",
+                "mythic": "74.7%",
+                "ultra": "5%"
+            },
+            "carrot": {
+                "mythic": "77.2%",
+                "ultra": "22.7%"
+            }
+        }
+    }
+}

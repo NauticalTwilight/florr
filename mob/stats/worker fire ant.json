@@ -1,0 +1,129 @@
+{
+    "name": "Worker Fire Ant",
+    "description": "This ant is on fireeeeeeeeeeeeee.",
+    "super_spawn_message": "A Super Worker Fire Ant has spawned somewhere!",
+    "common": {
+        "health": "62.5",
+        "body_damage": "20",
+        "drops": {
+            "corn": {
+                "common": "45.5%",
+                "unusual": "10.1%"
+            },
+            "yucca": {
+                "common": "45.5%",
+                "unusual": "10.1%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "234.5",
+        "body_damage": "60",
+        "drops": {
+            "corn": {
+                "common": "61.3%",
+                "unusual": "34.8%"
+            },
+            "yucca": {
+                "common": "61.3%",
+                "unusual": "34.8%"
+            }
+        }
+    },
+    "rare": {
+        "health": "843.75",
+        "body_damage": "180",
+        "drops": {
+            "corn": {
+                "common": "7.7%",
+                "unusual": "86%",
+                "rare": "6.3%"
+            },
+            "yucca": {
+                "common": "7.7%",
+                "unusual": "86%",
+                "rare": "6.3%"
+            }
+        }
+    },
+    "epic": {
+        "health": "3375",
+        "body_damage": "540",
+        "drops": {
+            "corn": {
+                "unusual": "19.7%",
+                "rare": "72.7%",
+                "epic": "7.6%"
+            },
+            "yucca": {
+                "unusual": "19.7%",
+                "rare": "72.7%",
+                "epic": "7.6%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "25312.5",
+        "body_damage": "1620",
+        "drops": {
+            "corn": {
+                "rare": "20.7%",
+                "epic": "76.3%",
+                "legendary": "3.1%"
+            },
+            "yucca": {
+                "rare": "20.7%",
+                "epic": "76.3%",
+                "legendary": "3.1%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "151875",
+        "body_damage": "4860",
+        "drops": {
+            "corn": {
+                "epic": "21.2%",
+                "legendary": "78.3%",
+                "mythic": "0.5%"
+            },
+            "yucca": {
+                "epic": "21.2%",
+                "legendary": "78.3%",
+                "mythic": "0.5%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "4562500",
+        "body_damage": "14580",
+        "drops": {
+            "corn": {
+                "legendary": "90.9%",
+                "mythic": "8.8%",
+                "ultra": "0.3%"
+            },
+            "yucca": {
+                "legendary": "90.9%",
+                "mythic": "8.8%",
+                "ultra": "0.3%"
+            }
+        }
+    },
+    "super": {
+        "health": "82000000",
+        "body_damage": "43740",
+        "drops": {
+            "corn": {
+                "legendary": "0.8%",
+                "mythic": "84.8%",
+                "ultra": "14.3%"
+            },
+            "yucca": {
+                "legendary": "0.8%",
+                "mythic": "84.8%",
+                "ultra": "14.3%"
+            }
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "name": "Shiny Ladybug",
+    "description": "Shiny, cute and mostly harmless.",
+    "super_spawn_message": "A Super Ladybug has spawned somewhere!",
+    "common": {
+        "health": "87.5",
+        "body_damage": "10",
+        "drops": {
+            "rose": {
+                "common": "46.8%",
+                "unusual": "53.2%"
+            },
+            "dahlia": {
+                "common": "46.8%",
+                "unusual": "53.2%"
+            },
+            "yggdrasil": {
+                "common": "66.2%",
+                "unusual": "30.6%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "328.3",
+        "body_damage": "30",
+        "drops": {
+            "rose": {
+                "common": "4.8%",
+                "unusual": "95.2%"
+            },
+            "dahlia": {
+                "common": "4.8%",
+                "unusual": "95.2%"
+            },
+            "yggdrasil": {
+                "common": "23.2%",
+                "unusual": "76.8%"
+            }
+        }
+    },
+    "rare": {
+        "health": "1181.25",
+        "body_damage": "90",
+        "drops": {
+            "rose": {
+                "unusual": "64.8%",
+                "rare": "35.2%"
+            },
+            "dahlia": {
+                "unusual": "64.8%",
+                "rare": "35.2%"
+            },
+            "yggdrasil": {
+                "unusual": "80.5%",
+                "rare": "19.5%"
+            }
+        }
+    },
+    "epic": {
+        "health": "4725",
+        "body_damage": "270",
+        "drops": {
+            "rose": {
+                "rare": "59.1%",
+                "epic": "40.9%"
+            },
+            "dahlia": {
+                "rare": "59.1%",
+                "epic": "40.9%"
+            },
+            "yggdrasil": {
+                "rare": "76.4%",
+                "epic": "23.1%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "35437.5",
+        "body_damage": "810",
+        "drops": {
+            "rose": {
+                "epic": "81.3%",
+                "legendary": "18.7%"
+            },
+            "dahlia": {
+                "epic": "81.3%",
+                "legendary": "18.7%"
+            },
+            "yggdrasil": {
+                "rare": "0.5%",
+                "epic": "89.7%",
+                "legendary": "9.8%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "212625",
+        "body_damage": "2430",
+        "drops": {
+            "rose": {
+                "legendary": "96.9%",
+                "mythic": "3.1%"
+            },
+            "dahlia": {
+                "legendary": "96.9%",
+                "mythic": "3.1%"
+            },
+            "yggdrasil": {
+                "epic": "0.6%",
+                "legendary": "97.8%",
+                "mythic": "1.6%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "6387500",
+        "body_damage": "7290",
+        "drops": {
+            "rose": {
+                "legendary": "52.8%",
+                "mythic": "45.2%",
+                "ultra": "2%"
+            },
+            "dahlia": {
+                "legendary": "52.8%",
+                "mythic": "45.2%",
+                "ultra": "2%"
+            },
+            "yggdrasil": {
+                "legendary": "72.6%",
+                "mythic": "26.3%",
+                "ultra": "1%"
+            }
+        }
+    },
+    "super": {
+        "health": "114800000",
+        "body_damage": "21870",
+        "drops": {
+            "rose": {
+                "mythic": "35.7%",
+                "ultra": "64.3%"
+            },
+            "dahlia": {
+                "mythic": "35.7%",
+                "ultra": "64.3%"
+            },
+            "yggdrasil": {
+                "mythic": "59.7%",
+                "ultra": "40.3%"
+            }
+        }
+    }
+}

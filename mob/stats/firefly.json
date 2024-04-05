@@ -1,0 +1,197 @@
+{
+    "name": "Firefly",
+    "description": "Oooooh shiny.",
+    "super_spawn_message": "A Super Firefly has spawned somewhere!",
+    "common": {
+        "health": "15",
+        "body_damage": "10",
+        "special_stats": {
+            "lightning": "13",
+            "bounces": "5"
+        },
+        "drops": {
+            "wing": {
+                "common": "59.8%",
+                "unusual": "16.4%"
+            },
+            "bulb": {
+                "common": "59.8%",
+                "unusual": "16.4%"
+            },
+            "battery": {
+                "common": "19.1%",
+                "unusual": "3.5%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "56.28",
+        "body_damage": "30",
+        "special_stats": {
+            "lightning": "39",
+            "bounces": "6"
+        },
+        "drops": {
+            "wing": {
+                "common": "48.5%",
+                "unusual": "51.2%"
+            },
+            "bulb": {
+                "common": "48.5%",
+                "unusual": "51.2%"
+            },
+            "battery": {
+                "common": "51%",
+                "unusual": "13.2%"
+            }
+        }
+    },
+    "rare": {
+        "health": "202.5",
+        "body_damage": "90",
+        "special_stats": {
+            "lightning": "117",
+            "bounces": "7"
+        },
+        "drops": {
+            "wing": {
+                "common": "1.3%",
+                "unusual": "88.4%",
+                "rare": "10.3%"
+            },
+            "bulb": {
+                "common": "1.3%",
+                "unusual": "88.4%",
+                "rare": "10.3%"
+            },
+            "battery": {
+                "common": "42.6%",
+                "unusual": "55.1%",
+                "rare": "2.1%"
+            }
+        }
+    },
+    "epic": {
+        "health": "810",
+        "body_damage": "270",
+        "special_stats": {
+            "lightning": "351",
+            "bounces": "8"
+        },
+        "drops": {
+            "wing": {
+                "unusual": "6.7%",
+                "rare": "81%",
+                "epic": "12.3%"
+            },
+            "bulb": {
+                "unusual": "6.7%",
+                "rare": "81%",
+                "epic": "12.3%"
+            },
+            "battery": {
+                "unusual": "58.2%",
+                "rare": "39.2%",
+                "epic": "2.6%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "6075",
+        "body_damage": "810",
+        "special_stats": {
+            "lightning": "1053",
+            "bounces": "9"
+        },
+        "drops": {
+            "wing": {
+                "rare": "7.2%",
+                "epic": "87.7%",
+                "legendary": "5%"
+            },
+            "bulb": {
+                "rare": "7.2%",
+                "epic": "87.7%",
+                "legendary": "5%"
+            },
+            "battery": {
+                "rare": "59.1%",
+                "epic": "39.9%",
+                "legendary": "1%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "36450",
+        "body_damage": "2430",
+        "special_stats": {
+            "lightning": "3159",
+            "bounces": "10"
+        },
+        "drops": {
+            "wing": {
+                "epic": "7.5%",
+                "legendary": "91.7%",
+                "mythic": "0.8%"
+            },
+            "bulb": {
+                "epic": "7.5%",
+                "legendary": "91.7%",
+                "mythic": "0.8%"
+            },
+            "battery": {
+                "epic": "59.6%",
+                "legendary": "40.2%",
+                "mythic": "0.2%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "1095000",
+        "body_damage": "7290",
+        "special_stats": {
+            "lightning": "9477",
+            "bounces": "11"
+        },
+        "drops": {
+            "wing": {
+                "legendary": "85.2%",
+                "mythic": "14.3%",
+                "ultra": "0.5%"
+            },
+            "bulb": {
+                "legendary": "85.2%",
+                "mythic": "14.3%",
+                "ultra": "0.5%"
+            },
+            "battery": {
+                "legendary": "96.9%",
+                "mythic": "3%",
+                "ultra": "0.1%"
+            }
+        }
+    },
+    "super": {
+        "health": "19680000",
+        "body_damage": "21870",
+        "special_stats": {
+            "lightning": "28431",
+            "bounces": "12"
+        },
+        "drops": {
+            "wing": {
+                "mythic": "77.2%",
+                "ultra": "22.7%"
+            },
+            "bulb": {
+                "mythic": "77.2%",
+                "ultra": "22.7%"
+            },
+            "battery": {
+                "legendary": "20.2%",
+                "mythic": "74.7%",
+                "ultra": "5%"
+            }
+        }
+    }
+}

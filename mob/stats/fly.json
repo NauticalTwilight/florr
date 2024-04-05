@@ -1,0 +1,189 @@
+{
+    "name": "Fly",
+    "description": "Hzzzzzzzzzzzz",
+    "super_spawn_message": "A buzzing noise echoes through the sewer tunnels...",
+    "common": {
+        "health": "15",
+        "body_damage": "10",
+        "special_stats": {
+            "evasion": "50%"
+        },
+        "drops": {
+            "wing": {
+                "common": "59.8%",
+                "unusual": "16.4%"
+            },
+            "poo": {
+                "common": "59.8%",
+                "unusual": "16.4%"
+            },
+            "talisman": {
+                "common": "34.1%",
+                "unusual": "6.9%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "56.28",
+        "body_damage": "30",
+        "special_stats": {
+            "evasion": "50%"
+        },
+        "drops": {
+            "wing": {
+                "common": "48.5%",
+                "unusual": "51.2%"
+            },
+            "poo": {
+                "common": "48.5%",
+                "unusual": "51.2%"
+            },
+            "talisman": {
+                "common": "63.1%",
+                "unusual": "24.7%"
+            }
+        }
+    },
+    "rare": {
+        "health": "202.5",
+        "body_damage": "90",
+        "special_stats": {
+            "evasion": "50%"
+        },
+        "drops": {
+            "wing": {
+                "common": "1.3%",
+                "unusual": "88.4%",
+                "rare": "10.3%"
+            },
+            "poo": {
+                "common": "1.3%",
+                "unusual": "88.4%",
+                "rare": "10.3%"
+            },
+            "talisman": {
+                "common": "18.2%",
+                "unusual": "77.6%",
+                "rare": "4.2%"
+            }
+        }
+    },
+    "epic": {
+        "health": "810",
+        "body_damage": "270",
+        "special_stats": {
+            "evasion": "50%"
+        },
+        "drops": {
+            "wing": {
+                "unusual": "6.7%",
+                "rare": "81%",
+                "epic": "12.3%"
+            },
+            "poo": {
+                "unusual": "6.7%",
+                "rare": "81%",
+                "epic": "12.3%"
+            },
+            "talisman": {
+                "unusual": "33.8%",
+                "rare": "61%",
+                "epic": "5.1%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "6075",
+        "body_damage": "810",
+        "special_stats": {
+            "evasion": "50%"
+        },
+        "drops": {
+            "wing": {
+                "rare": "7.2%",
+                "epic": "87.7%",
+                "legendary": "5%"
+            },
+            "poo": {
+                "rare": "7.2%",
+                "epic": "87.7%",
+                "legendary": "5%"
+            },
+            "talisman": {
+                "rare": "34.9%",
+                "epic": "63%",
+                "legendary": "2%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "36450",
+        "body_damage": "2430",
+        "special_stats": {
+            "evasion": "50%"
+        },
+        "drops": {
+            "wing": {
+                "epic": "7.5%",
+                "legendary": "91.7%",
+                "mythic": "0.8%"
+            },
+            "poo": {
+                "epic": "7.5%",
+                "legendary": "91.7%",
+                "mythic": "0.8%"
+            },
+            "talisman": {
+                "epic": "35.6%",
+                "legendary": "64.1%",
+                "mythic": "0.3%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "1095000",
+        "body_damage": "7290",
+        "special_stats": {
+            "evasion": "50%"
+        },
+        "drops": {
+            "wing": {
+                "legendary": "85.2%",
+                "mythic": "14.3%",
+                "ultra": "0.5%"
+            },
+            "poo": {
+                "legendary": "85.2%",
+                "mythic": "14.3%",
+                "ultra": "0.5%"
+            },
+            "talisman": {
+                "legendary": "93.8%",
+                "mythic": "6%",
+                "ultra": "0.2%"
+            }
+        }
+    },
+    "super": {
+        "health": "19680000",
+        "body_damage": "21870",
+        "special_stats": {
+            "evasion": "50%"
+        },
+        "drops": {
+            "wing": {
+                "mythic": "77.2%",
+                "ultra": "22.7%"
+            },
+            "poo": {
+                "mythic": "77.2%",
+                "ultra": "22.7%"
+            },
+            "talisman": {
+                "legendary": "4.1%",
+                "mythic": "86.1%",
+                "ultra": "9.8%"
+            }
+        }
+    }
+}

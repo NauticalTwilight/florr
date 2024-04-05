@@ -1,0 +1,167 @@
+{
+    "name": "Scorpion",
+    "description": "IT STINGS",
+    "super_spawn_message": "A Super Scorpion has spawned somewhere!",
+    "common": {
+        "health": "100",
+        "body_damage": "15",
+        "special_stats": {
+            "missile_health": "100",
+            "missile_damage": "5",
+            "missile_poison": "40"
+        },
+        "drops": {
+            "pincer": {
+                "common": "59.8%",
+                "unusual": "16.4%"
+            },
+            "iris": {
+                "common": "59.8%",
+                "unusual": "16.4%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "375.2",
+        "body_damage": "45",
+        "special_stats": {
+            "missile_health": "300",
+            "missile_damage": "15",
+            "missile_poison": "120"
+        },
+        "drops": {
+            "pincer": {
+                "common": "48.5%",
+                "unusual": "51.2%"
+            },
+            "iris": {
+                "common": "48.5%",
+                "unusual": "51.2%"
+            }
+        }
+    },
+    "rare": {
+        "health": "1350",
+        "body_damage": "135",
+        "special_stats": {
+            "missile_health": "900",
+            "missile_damage": "45",
+            "missile_poison": "360"
+        },
+        "drops": {
+            "pincer": {
+                "common": "1.3%",
+                "unusual": "88.4%",
+                "rare": "10.3%"
+            },
+            "iris": {
+                "common": "1.3%",
+                "unusual": "88.4%",
+                "rare": "10.3%"
+            }
+        }
+    },
+    "epic": {
+        "health": "5400",
+        "body_damage": "405",
+        "special_stats": {
+            "missile_health": "2700",
+            "missile_damage": "135",
+            "missile_poison": "1080"
+        },
+        "drops": {
+            "pincer": {
+                "unusual": "6.7%",
+                "rare": "81%",
+                "epic": "12.3%"
+            },
+            "iris": {
+                "unusual": "6.7%",
+                "rare": "81%",
+                "epic": "12.3%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "40500",
+        "body_damage": "1215",
+        "special_stats": {
+            "missile_health": "8100",
+            "missile_damage": "405",
+            "missile_poison": "3240"
+        },
+        "drops": {
+            "pincer": {
+                "rare": "7.2%",
+                "epic": "87.7%",
+                "legendary": "5%"
+            },
+            "iris": {
+                "rare": "7.2%",
+                "epic": "87.7%",
+                "legendary": "5%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "243000",
+        "body_damage": "3645",
+        "special_stats": {
+            "missile_health": "24300",
+            "missile_damage": "1215",
+            "missile_poison": "9720"
+        },
+        "drops": {
+            "pincer": {
+                "epic": "7.5%",
+                "legendary": "91.7%",
+                "mythic": "0.8%"
+            },
+            "iris": {
+                "epic": "7.5%",
+                "legendary": "91.7%",
+                "mythic": "0.8%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "7300000",
+        "body_damage": "10935",
+        "special_stats": {
+            "missile_health": "72900",
+            "missile_damage": "3645",
+            "missile_poison": "29160"
+        },
+        "drops": {
+            "pincer": {
+                "legendary": "85.2%",
+                "mythic": "14.3%",
+                "ultra": "0.5%"
+            },
+            "iris": {
+                "legendary": "85.2%",
+                "mythic": "14.3%",
+                "ultra": "0.5%"
+            }
+        }
+    },
+    "super": {
+        "health": "131200000",
+        "body_damage": "32805",
+        "special_stats": {
+            "missile_health": "218700",
+            "missile_damage": "10935",
+            "missile_poison": "87480"
+        },
+        "drops": {
+            "pincer": {
+                "mythic": "77.2%",
+                "ultra": "22.7%"
+            },
+            "iris": {
+                "mythic": "77.2%",
+                "ultra": "22.7%"
+            }
+        }
+    }
+}

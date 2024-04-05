@@ -1,0 +1,129 @@
+{
+    "name": "Rock",
+    "description": "A rock. It doesn't do much.",
+    "super_spawn_message": "Something mountain-like appears in the distance...",
+    "common": {
+        "health": "50~100",
+        "body_damage": "10",
+        "drops": {
+            "rock": {
+                "common": "45.5%",
+                "unusual": "10.1%"
+            },
+            "heavy": {
+                "common": "19.1%",
+                "unusual": "3.5%"
+            }
+        }
+    },
+    "unusual": {
+        "health": "187.6~375.2",
+        "body_damage": "30",
+        "drops": {
+            "rock": {
+                "common": "61.3%",
+                "unusual": "34.8%"
+            },
+            "heavy": {
+                "common": "51%",
+                "unusual": "13.2%"
+            }
+        }
+    },
+    "rare": {
+        "health": "675~1350",
+        "body_damage": "90",
+        "drops": {
+            "rock": {
+                "common": "7.7%",
+                "unusual": "86%",
+                "rare": "6.3%"
+            },
+            "heavy": {
+                "common": "42.6%",
+                "unusual": "55.1%",
+                "rare": "2.1%"
+            }
+        }
+    },
+    "epic": {
+        "health": "2700~5400",
+        "body_damage": "270",
+        "drops": {
+            "rock": {
+                "unusual": "19.7%",
+                "rare": "72.7%",
+                "epic": "7.6%"
+            },
+            "heavy": {
+                "unusual": "58.2%",
+                "rare": "39.2%",
+                "epic": "2.6%"
+            }
+        }
+    },
+    "legendary": {
+        "health": "20250~40500",
+        "body_damage": "810",
+        "drops": {
+            "rock": {
+                "rare": "20.7%",
+                "epic": "76.3%",
+                "legendary": "3.1%"
+            },
+            "heavy": {
+                "rare": "59.1%",
+                "epic": "39.9%",
+                "legendary": "1%"
+            }
+        }
+    },
+    "mythic": {
+        "health": "121500~243000",
+        "body_damage": "2430",
+        "drops": {
+            "rock": {
+                "epic": "21.2%",
+                "legendary": "78.3%",
+                "mythic": "0.5%"
+            },
+            "heavy": {
+                "epic": "59.6%",
+                "legendary": "40.2%",
+                "mythic": "0.2%"
+            }
+        }
+    },
+    "ultra": {
+        "health": "3650000~7300000",
+        "body_damage": "7290",
+        "drops": {
+            "rock": {
+                "legendary": "90.9%",
+                "mythic": "8.8%",
+                "ultra": "0.3%"
+            },
+            "heavy": {
+                "legendary": "96.9%",
+                "mythic": "3%",
+                "ultra": "0.1%"
+            }
+        }
+    },
+    "super": {
+        "health": "65600000~131200000",
+        "body_damage": "21870",
+        "drops": {
+            "rock": {
+                "legendary": "0.8%",
+                "mythic": "84.8%",
+                "ultra": "14.3%"
+            },
+            "heavy": {
+                "legendary": "20.2%",
+                "mythic": "74.7%",
+                "ultra": "5%"
+            }
+        }
+    }
+}
