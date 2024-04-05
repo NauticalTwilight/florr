@@ -7,7 +7,6 @@
         "body_damage": "10",
         "drops": {
             "leaf": {
-                "common": "45.5%",
                 "unusual": "10.1%"
             },
             "rice": {
@@ -25,7 +24,6 @@
         "body_damage": "30",
         "drops": {
             "leaf": {
-                "common": "61.3%",
                 "unusual": "34.8%"
             },
             "rice": {
@@ -43,7 +41,6 @@
         "body_damage": "90",
         "drops": {
             "leaf": {
-                "common": "7.7%",
                 "unusual": "86%",
                 "rare": "6.3%"
             },
