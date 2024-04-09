@@ -10,7 +10,7 @@ def processName(name):
         return "ladybug_dark.png"
     elif processedName == "hel_beetle.png":
         return "beetle_hel.png"
-    elif processedName == "evil_centipede":
+    elif processedName == "evil_centipede.png":
         return "centipede_evil.png"
     elif processedName == "desert_centipede.png":
         return "centipede_desert.png"
